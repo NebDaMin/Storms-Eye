@@ -16,7 +16,7 @@ kanban-plugin: board
 - [ ] Ensure potions have a stack size
 - [ ] Make Xaeros not check for updates
 - [ ] Reliable entity transfer
-- [ ] minimalize hexerai
+- [ ] minimalize [[Hexerei]]
 - [ ] add custom sky with sky aesthetics
 - [ ] Add standardized kubejs or item oblit tech
 - [ ] see if we need to work on the structure sets to avoid overlap
@@ -32,6 +32,7 @@ kanban-plugin: board
 
 ## Working
 
+- [ ] [[Workspace Work]]
 
 
 ## Review

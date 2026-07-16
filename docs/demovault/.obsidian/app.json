@@ -4,5 +4,6 @@
   "showInlineTitle": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "Main",
-  "attachmentFolderPath": "Utility/Attachments"
+  "attachmentFolderPath": "Utility/Attachments",
+  "useMarkdownLinks": false
 }

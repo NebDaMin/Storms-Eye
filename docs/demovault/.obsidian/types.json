@@ -6,8 +6,13 @@
     "Client": "checkbox",
     "Client/Server": "multitext",
     "HasCustomConfig": "checkbox",
-    "Integration Phase": "text",
+    "Integration Phase": "multitext",
     "ModCategory": "multitext",
-    "Version": "text"
+    "Version": "text",
+    "Loader Compat": "multitext",
+    "QA Final": "checkbox",
+    "Dependencies": "multitext",
+    "Active": "checkbox",
+    "Complete": "checkbox"
   }
 }
