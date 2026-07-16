@@ -7,7 +7,7 @@ Core vanilla mechanics are absolutely on the table to be fucked with. Minimize b
 Players want to fight and loot, not rummage around in menus figuring out how to craft something
 
 ### Lean into the Theme
-The theme is paramount, anyone can make a modpack with [[Iron's Spells and Spellbooks]] set it apart by leaning into the explicit themes that exist apart from any particular mod
+The theme is paramount, anyone can make a modpack with [[Iron's Spells and Spellbooks]]. set it apart by leaning into the explicit themes that exist apart from any particular mod
 
 ### The Wipe
 This pack is designed to be played with the "Storms Eye" dimension being a limited space player hub, and all other dimensions are periodically wiped out and recreated. This wipe should be a dramatic moment. The world should become more dangerous as worlds are lost to the storm. If possible, lean into generating novelty when generating new worlds each wipe.

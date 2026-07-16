@@ -6,12 +6,10 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Build out dev environment
 - [ ] Initial Trimdown of JEI
 - [ ] UI Improvement
 - [ ] Identify additional extensions for ISSB
 - [ ] [[Test Transparency with shaders]]
-- [ ] Integrate Born in Chaos Mod
 - [ ] Check if Toxony has a compat version
 - [ ] Ensure potions have a stack size
 - [ ] Make Xaeros not check for updates
@@ -20,19 +18,20 @@ kanban-plugin: board
 - [ ] add custom sky with sky aesthetics
 - [ ] Add standardized kubejs or item oblit tech
 - [ ] see if we need to work on the structure sets to avoid overlap
-- [ ] See if there is a way to use a newer version of cataclysm
+- [ ] Possibly use [[Botania]] Corporea system for storage?
+- [ ] Iterate on the Eye Graphic
 
 
 ## Pending
 
 - [ ] Define the Core Technical Parts
 - [ ] Define the Core Gameplay
-- [ ] Build out Obsidian
 
 
 ## Working
 
 - [ ] [[Workspace Work]]
+- [ ] Build out Obsidian
 
 
 ## Review
@@ -42,6 +41,9 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] Integrate Born in Chaos Mod
+- [x] Build out dev environment
+- [x] See if there is a way to use a newer version of cataclysm
 
 
 
