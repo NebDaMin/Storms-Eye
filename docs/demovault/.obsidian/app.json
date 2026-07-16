@@ -1,0 +1,8 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "showInlineTitle": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Main",
+  "attachmentFolderPath": "Utility/Attachments"
+}

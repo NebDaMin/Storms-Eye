@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Client": "checkbox",
+    "Client/Server": "multitext",
+    "HasCustomConfig": "checkbox",
+    "Integration Phase": "text",
+    "ModCategory": "multitext",
+    "Version": "text"
+  }
+}
