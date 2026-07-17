@@ -20,6 +20,7 @@ kanban-plugin: board
 - [ ] see if we need to work on the structure sets to avoid overlap
 - [ ] Possibly use [[Botania]] Corporea system for storage?
 - [ ] Iterate on the Eye Graphic
+- [ ] Add a health progression mechanic
 
 
 ## Pending
