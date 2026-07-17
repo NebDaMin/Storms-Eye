@@ -8,5 +8,5 @@ Need to confirm that all the recommended shader packs works with the following m
 
 ## TODO
 - [ ] Lava Vision Test with Shaders
-- [ ] Falconry Vision test with Shaders
+- [ ] Falconry return test with Shaders
 - [ ] 

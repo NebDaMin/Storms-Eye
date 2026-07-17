@@ -21,6 +21,7 @@ https://www.curseforge.com/minecraft/mc-mods/corail-tombstone
 Voice Chat
 https://www.curseforge.com/minecraft/mc-mods/eyes-in-the-darkness
 https://www.curseforge.com/minecraft/mc-mods/artifacts
+https://www.curseforge.com/members/corail_31/projects
 
 ## Performance Stuff
 https://www.curseforge.com/minecraft/mc-mods/rubidium
