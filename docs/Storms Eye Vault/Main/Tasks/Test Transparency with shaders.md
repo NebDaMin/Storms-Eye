@@ -1,12 +1,12 @@
 ---
-Active: false
-Complete: false
+Started: true
+Complete: true
 ---
 
 ## Notes
 Need to confirm that all the recommended shader packs works with the following modded features
 
 ## TODO
-- [ ] Lava Vision Test with Shaders
-- [ ] Falconry return test with Shaders
+- [x] Lava Vision Test with Shaders
+- [x] Falconry return test with Shaders
 - [ ] 

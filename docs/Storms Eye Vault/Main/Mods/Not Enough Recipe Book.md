@@ -2,15 +2,15 @@
 Install Location:
   - Client
   - Server
-LinkToMod: https://www.curseforge.com/minecraft/mc-mods/dont-hit-me
+LinkToMod: https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook
 Loader Compat:
   - Forge
   - NeoForge
-CustomConfig: false
+CustomConfig: true
 Integration Phase:
-  - Testing
+  - Completed
 ModCategory:
-  - Fix/Improvement
+  - QOL
 Specific Version: None
 QA Final: false
 ---
@@ -18,7 +18,7 @@ QA Final: false
 - None
 
 ## Configuration Notes
-- None
+- Config option to Disable the book entirely
 
 ## Remaining Integration TODO
 - [ ] None

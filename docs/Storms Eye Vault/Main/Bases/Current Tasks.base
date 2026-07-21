@@ -1,0 +1,36 @@
+filters:
+  and:
+    - file.path.startsWith("Main/Tasks")
+views:
+  - type: table
+    name: Backlog
+    filters:
+      and:
+        - Complete == false
+    order:
+      - file.name
+      - Started
+      - Complete
+    sort:
+      - property: Active
+        direction: ASC
+    columnSize:
+      file.name: 374
+      note.Active: 192
+      note.Complete: 349
+  - type: table
+    name: Active Tasks
+    filters:
+      and:
+        - Started == true
+    order:
+      - file.name
+      - Started
+      - Complete
+    sort:
+      - property: Active
+        direction: ASC
+    columnSize:
+      file.name: 374
+      note.Active: 192
+      note.Complete: 349

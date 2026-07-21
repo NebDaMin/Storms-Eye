@@ -12,6 +12,7 @@ kanban-plugin: board
 - [ ] What to do about the void worm
 - [ ] enable farseer?
 - [ ] enable murmur?
+- [ ] embeddium breaks lava vision FYI
 
 
 ## 

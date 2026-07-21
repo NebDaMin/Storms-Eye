@@ -88,6 +88,6 @@ views:
         direction: ASC
     columnSize:
       note.Integration Phase: 184
-      note.ModCategory: 253
+      note.ModCategory: 323
       note.CustomConfig: 145
       note.Install Location: 209

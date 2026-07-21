@@ -13,6 +13,7 @@
     "QA Final": "checkbox",
     "Dependencies": "multitext",
     "Active": "checkbox",
-    "Complete": "checkbox"
+    "Complete": "checkbox",
+    "Status": "multitext"
   }
 }

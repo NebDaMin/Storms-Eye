@@ -1,6 +1,6 @@
 ---
-Active: true
-Complete: false
+Started: true
+Complete: true
 ---
 
 ## TODO
@@ -9,5 +9,5 @@ Complete: false
 - [x] add base for tracking all custom configs
 - [x] add base for client and server mod lists
 - [x] add base for integration phase
-- [ ] install location base
+- [x] install location base
 - [x] mods that exist in the folder but dont have props## Notes

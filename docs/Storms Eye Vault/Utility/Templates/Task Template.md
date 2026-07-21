@@ -1,8 +1,8 @@
 ---
-Active: false
+Started: false
 Complete: false
 ---
 ## Notes
-- asdf
+- None
 ## TODO
 - [ ] TODO

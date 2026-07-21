@@ -7,9 +7,9 @@ views:
     name: All Mods
     order:
       - file.name
+      - Integration Phase
       - ModCategory
       - CustomConfig
-      - Integration Phase
       - QA Final
     sort:
       - property: Loader Compat

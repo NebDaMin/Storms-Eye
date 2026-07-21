@@ -42,18 +42,17 @@ kanban-plugin: board
 - [ ] Iterate on the Eye Graphic
 - [ ] Add a health progression mechanic
 - [ ] [[Look into ore unification]]
+- [ ] get tpx command
 
 
 ## Pending
 
-- [ ] Define the Core Technical Parts
 - [ ] Define the Core Gameplay
 
 
 ## Working
 
-- [ ] [[Workspace Work]]
-- [ ] Build out Obsidian
+- [ ] Define the Core Technical Parts
 
 
 ## Review
@@ -63,6 +62,8 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] Build out Obsidian
+- [x] [[Workspace Work]]
 - [x] Integrate Born in Chaos Mod
 - [x] Build out dev environment
 - [x] See if there is a way to use a newer version of cataclysm

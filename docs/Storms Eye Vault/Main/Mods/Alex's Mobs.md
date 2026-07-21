@@ -42,11 +42,11 @@ QA Final: false
 - Cosmic Cod
 - Cosmaw
 ### other configs
-- removing general mob hostility to preserver lag
-
-
+- removing general mob hostility with each other to reduce lag
 
 ## Remaining Integration TODO
-- [ ] asdf
+- [ ] Need to remove many recipes
+- [ ] need to add familars to FTB quests
+- [ ] 
 ## Remaining QA
 - [ ] Ensure Integration exist with [[FTB Quests]]
