@@ -4,9 +4,6 @@
 
 ### Magic
 https://www.curseforge.com/minecraft/mc-mods/hexerei
-https://legacy.curseforge.com/minecraft/mc-mods/wizards-reborn
-https://legacy.curseforge.com/minecraft/mc-mods/ars-botania
-https://legacy.curseforge.com/minecraft/mc-mods/botania
 https://www.curseforge.com/minecraft/mc-mods/apotheosis
 https://www.curseforge.com/minecraft/mc-mods/relics-mod
 https://legacy.curseforge.com/minecraft/modpacks/deltas-mod-pack-20

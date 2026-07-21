@@ -4,10 +4,30 @@ kanban-plugin: board
 
 ---
 
+## Future Ideas
+
+- [ ] stuff for paintings
+- [ ] death management system
+- [ ] UI Improvement
+- [ ] revive mechanics
+- [ ] Travelers titles
+- [ ] world border dimensional
+- [ ] zoom
+- [ ] Mowzie's cataclysm
+- [ ] Book of Familiars
+- [ ] locks unofficial
+- [ ] better JEI integration
+- [ ] overworld mirror
+- [ ] add map
+- [ ] chunk loading manager
+- [ ] modify loot tables
+- [ ] ghosts mod?
+- [ ] figure out what crow we want to use
+
+
 ## Backlog
 
 - [ ] Initial Trimdown of JEI
-- [ ] UI Improvement
 - [ ] Identify additional extensions for ISSB
 - [ ] [[Test Transparency with shaders]]
 - [ ] Check if Toxony has a compat version
@@ -21,6 +41,7 @@ kanban-plugin: board
 - [ ] Possibly use [[Botania]] Corporea system for storage?
 - [ ] Iterate on the Eye Graphic
 - [ ] Add a health progression mechanic
+- [ ] [[Look into ore unification]]
 
 
 ## Pending
@@ -51,6 +72,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,true],"max-archive-size":50,"tag-colors":[]}
+{"kanban-plugin":"board","list-collapse":[true,false,false,false,false,true],"max-archive-size":50,"tag-colors":[]}
 ```
 %%

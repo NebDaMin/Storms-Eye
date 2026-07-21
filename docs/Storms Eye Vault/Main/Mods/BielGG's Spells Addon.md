@@ -2,28 +2,25 @@
 Install Location:
   - Client
   - Server
-LinkToMod: https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge
+LinkToMod: https://www.curseforge.com/minecraft/mc-mods/bielggs-spells-addon
 Loader Compat:
   - Forge
-  - NeoForge
 CustomConfig: true
 Integration Phase:
   - Planned
 ModCategory:
-  - Core Technical
-  - Core Gameplay
   - Secondary Gameplay
-  - QOL
-  - Misc
-  - Unknown
-Mod Version: Unknown
+  - Fix/Improvement
+Specific Version: None
 QA Final: false
 ---
 ## Mod Notes
-- None
+- need to remove all those jank spells
 
 ## Configuration Notes
 - None
 
+## Remaining Integration TODO
+- [ ] remove the broken spells
 ## Remaining QA
 - [ ] None

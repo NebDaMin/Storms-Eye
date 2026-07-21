@@ -7,8 +7,8 @@ Loader Compat:
   - Forge
   - NeoForge
 CustomConfig: true
-Integration Phase: Planned
-Dependencies: Unknown
+Integration Phase:
+  - Integrating
 ModCategory:
   - Secondary Gameplay
 Mod Version: 1.22.9
@@ -35,17 +35,18 @@ QA Final: false
 - Frost Stalker
 - Sun Bird
 - Bone Serpent
+- skelewag
 - Stradler
 - Soul Vulture
 - Drop Bear
 - Cosmic Cod
 - Cosmaw
+### other configs
+- removing general mob hostility to preserver lag
 
-### Notable Items
-- Falconry Glove
-- Falconry Hood
-- Bison Fir Items
-Gazelle horn and potions
 
+
+## Remaining Integration TODO
+- [ ] asdf
 ## Remaining QA
 - [ ] Ensure Integration exist with [[FTB Quests]]

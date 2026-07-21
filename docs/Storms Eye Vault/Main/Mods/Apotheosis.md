@@ -2,21 +2,16 @@
 Install Location:
   - Client
   - Server
-LinkToMod: https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge
+LinkToMod: https://www.curseforge.com/minecraft/mc-mods/apotheosis
 Loader Compat:
   - Forge
   - NeoForge
-CustomConfig: true
+CustomConfig: false
 Integration Phase:
-  - Planned
+  - Assessing
 ModCategory:
-  - Core Technical
-  - Core Gameplay
   - Secondary Gameplay
-  - QOL
-  - Misc
-  - Unknown
-Mod Version: Unknown
+Specific Version: None
 QA Final: false
 ---
 ## Mod Notes
@@ -25,5 +20,7 @@ QA Final: false
 ## Configuration Notes
 - None
 
+## Remaining Integration TODO
+- [ ] None
 ## Remaining QA
 - [ ] None

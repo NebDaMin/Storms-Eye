@@ -2,28 +2,14 @@
 Install Location:
   - Client
   - Server
-  - Unknown
-LinkToMod: Unknown
+LinkToMod: https://www.curseforge.com/minecraft/mc-mods/dont-hit-me
 Loader Compat:
   - Forge
   - NeoForge
-  - Unknown
 CustomConfig: false
 Integration Phase:
-  - Planned
-  - Completed
-  - Assessing
-  - Wont Implement
-  - Integrating
   - Testing
-  - Return Later
 ModCategory:
-  - Core Technical
-  - Core Gameplay
-  - Secondary Gameplay
-  - QOL
-  - Misc
-  - Unknown
   - Fix/Improvement
 Specific Version: None
 QA Final: false

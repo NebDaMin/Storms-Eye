@@ -2,28 +2,15 @@
 Install Location:
   - Client
   - Server
-  - Unknown
-LinkToMod: Unknown
+LinkToMod: https://www.curseforge.com/minecraft/mc-mods/born-in-chaos
 Loader Compat:
   - Forge
   - NeoForge
-  - Unknown
-CustomConfig: false
+CustomConfig: true
 Integration Phase:
-  - Planned
-  - In Progress
-  - Completed
-Dependencies:
-  - Unknown
-  - None
+  - Assessing
 ModCategory:
-  - Core Technical
-  - Core Gameplay
   - Secondary Gameplay
-  - QOL
-  - Misc
-  - Unknown
-Mod Version: Unknown
 QA Final: false
 ---
 ## Mod Notes

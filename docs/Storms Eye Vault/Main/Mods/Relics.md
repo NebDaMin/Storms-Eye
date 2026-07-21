@@ -2,13 +2,20 @@
 Install Location:
   - Client
   - Server
-LinkToMod: https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge
+  - Unknown
+LinkToMod: https://www.curseforge.com/minecraft/mc-mods/relics-mod
 Loader Compat:
   - Forge
   - NeoForge
-CustomConfig: true
+  - Unknown
+CustomConfig: false
 Integration Phase:
   - Planned
+  - Completed
+  - Assessing
+  - Wont Implement
+  - Integrating
+  - Testing
 ModCategory:
   - Core Technical
   - Core Gameplay
@@ -25,5 +32,7 @@ QA Final: false
 ## Configuration Notes
 - None
 
+## Remaining Integration TODO
+- [ ] None
 ## Remaining QA
 - [ ] None

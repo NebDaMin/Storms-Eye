@@ -1,0 +1,99 @@
+filters:
+  and:
+    - file.path.contains("Main/Mods")
+    - '!note["Integration Phase"].contains("Wont Implement")'
+views:
+  - type: table
+    name: All Mods
+    order:
+      - file.name
+      - ModCategory
+      - CustomConfig
+      - Integration Phase
+      - QA Final
+    sort:
+      - property: Loader Compat
+        direction: DESC
+    columnSize:
+      note.ModCategory: 608
+      note.CustomConfig: 127
+      note.Integration Phase: 271
+      note.QA Final: 110
+  - type: table
+    name: Custom Configs
+    filters:
+      and:
+        - CustomConfig == true
+    order:
+      - file.name
+      - ModCategory
+      - CustomConfig
+      - Integration Phase
+      - QA Final
+    sort:
+      - property: Loader Compat
+        direction: DESC
+    columnSize:
+      note.ModCategory: 356
+      note.CustomConfig: 269
+      note.Integration Phase: 271
+      note.QA Final: 110
+  - type: table
+    name: Non-Custom Configs
+    filters:
+      and:
+        - CustomConfig == false
+    order:
+      - file.name
+      - ModCategory
+      - CustomConfig
+      - Integration Phase
+      - QA Final
+    sort:
+      - property: Loader Compat
+        direction: DESC
+    columnSize:
+      note.ModCategory: 356
+      note.CustomConfig: 269
+      note.Integration Phase: 271
+      note.QA Final: 110
+  - type: table
+    name: Client Mods
+    filters:
+      and:
+        - note["Install Location"].contains("Client")
+    order:
+      - file.name
+      - ModCategory
+      - CustomConfig
+      - Integration Phase
+      - QA Final
+      - Install Location
+    sort:
+      - property: Loader Compat
+        direction: DESC
+    columnSize:
+      note.ModCategory: 356
+      note.CustomConfig: 128
+      note.Integration Phase: 150
+      note.QA Final: 110
+  - type: table
+    name: Server Mods
+    filters:
+      and:
+        - note["Install Location"].contains("Server")
+    order:
+      - file.name
+      - ModCategory
+      - CustomConfig
+      - Integration Phase
+      - QA Final
+      - Install Location
+    sort:
+      - property: Loader Compat
+        direction: DESC
+    columnSize:
+      note.ModCategory: 356
+      note.CustomConfig: 128
+      note.Integration Phase: 150
+      note.QA Final: 110

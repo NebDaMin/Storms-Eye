@@ -1,0 +1,93 @@
+filters:
+  and:
+    - file.path.contains("Main/Mods")
+    - '!note["Integration Phase"].contains("Wont Implement")'
+views:
+  - type: table
+    name: All Mods
+    order:
+      - file.name
+      - Integration Phase
+      - ModCategory
+      - CustomConfig
+      - Install Location
+      - Specific Version
+    sort:
+      - property: Integration Phase
+        direction: DESC
+      - property: CustomConfig
+        direction: ASC
+    columnSize:
+      note.Integration Phase: 184
+      note.ModCategory: 253
+      note.CustomConfig: 145
+      note.Install Location: 209
+  - type: table
+    name: Missing Metadata
+    filters:
+      or:
+        - ModCategory.contains("Unknown")
+        - note["Install Location"].contains("Unknown")
+        - LinkToMod == "Unknown"
+        - note["Integration Phase"].containsAll("Planned", "Completed", "Assessing")
+        - ModCategory.contains("Unknown")
+    order:
+      - file.name
+      - Integration Phase
+      - ModCategory
+      - CustomConfig
+      - Install Location
+      - Specific Version
+      - LinkToMod
+    sort:
+      - property: CustomConfig
+        direction: ASC
+    columnSize:
+      note.Integration Phase: 184
+      note.ModCategory: 253
+      note.CustomConfig: 145
+      note.Install Location: 209
+  - type: table
+    name: In Progress
+    filters:
+      and:
+        - note["Integration Phase"].containsAny("Integrating", "Testing")
+    order:
+      - file.name
+      - Integration Phase
+      - ModCategory
+      - CustomConfig
+      - Install Location
+      - Specific Version
+    sort:
+      - property: Integration Phase
+        direction: DESC
+      - property: CustomConfig
+        direction: ASC
+    columnSize:
+      note.Integration Phase: 184
+      note.ModCategory: 253
+      note.CustomConfig: 145
+      note.Install Location: 209
+  - type: table
+    name: Backlog
+    filters:
+      and:
+        - note["Integration Phase"].containsAny("Planned", "Return Later")
+    order:
+      - file.name
+      - Integration Phase
+      - ModCategory
+      - CustomConfig
+      - Install Location
+      - Specific Version
+    sort:
+      - property: Integration Phase
+        direction: DESC
+      - property: CustomConfig
+        direction: ASC
+    columnSize:
+      note.Integration Phase: 184
+      note.ModCategory: 253
+      note.CustomConfig: 145
+      note.Install Location: 209

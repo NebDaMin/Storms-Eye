@@ -2,25 +2,24 @@
 Install Location:
   - Client
   - Server
-LinkToMod: https://www.curseforge.com/minecraft/mc-mods/hexerei
+LinkToMod: https://www.curseforge.com/minecraft/mc-mods/botania
 Loader Compat:
   - Forge
   - NeoForge
 CustomConfig: true
 Integration Phase:
-  - Planned
+  - Assessing
 ModCategory:
   - Core Gameplay
-Mod Version: 0.4.2.3
 QA Final: false
 ---
 ## Mod Notes
-- Has Owl Mail
-- Has Brooms
+- None
 
 ## Configuration Notes
 - None
 
+## Remaining Integration TODO
+- [ ] None
 ## Remaining QA
 - [ ] None
-## TODO

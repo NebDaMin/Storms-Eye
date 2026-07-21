@@ -2,20 +2,13 @@
 Install Location:
   - Client
   - Server
-  - Unknown
-LinkToMod: Unknown
+LinkToMod: https://www.curseforge.com/minecraft/mc-mods/geckolib
 Loader Compat:
   - Forge
   - NeoForge
-  - Unknown
 CustomConfig: false
 Integration Phase:
-  - Planned
-  - In Progress
   - Completed
-Dependencies:
-  - Unknown
-  - None
 ModCategory:
   - Library
 Mod Version: Unknown

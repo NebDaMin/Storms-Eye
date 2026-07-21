@@ -2,28 +2,16 @@
 Install Location:
   - Client
   - Server
-  - Unknown
-LinkToMod: Unknown
+LinkToMod: https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks
 Loader Compat:
   - Forge
   - NeoForge
-  - Unknown
-CustomConfig: false
+CustomConfig: true
 Integration Phase:
   - Planned
-  - In Progress
-  - Completed
-Dependencies:
-  - Unknown
-  - None
 ModCategory:
-  - Core Technical
   - Core Gameplay
-  - Secondary Gameplay
-  - QOL
-  - Misc
-  - Unknown
-Mod Version: Unknown
+Specific Version: None
 QA Final: false
 ---
 ## Mod Notes
@@ -32,5 +20,7 @@ QA Final: false
 ## Configuration Notes
 - None
 
+## Remaining Integration TODO
+- [ ] None
 ## Remaining QA
 - [ ] None
