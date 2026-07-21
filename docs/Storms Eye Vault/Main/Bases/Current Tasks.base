@@ -3,9 +3,10 @@ filters:
     - file.path.startsWith("Main/Tasks")
 views:
   - type: table
-    name: Backlog
+    name: Active Tasks
     filters:
       and:
+        - Started == true
         - Complete == false
     order:
       - file.name
@@ -19,10 +20,10 @@ views:
       note.Active: 192
       note.Complete: 349
   - type: table
-    name: Active Tasks
+    name: Backlog
     filters:
       and:
-        - Started == true
+        - Complete == false
     order:
       - file.name
       - Started

@@ -11,12 +11,8 @@ Integration Phase:
   - Planned
 ModCategory:
   - Core Technical
-  - Core Gameplay
-  - Secondary Gameplay
   - QOL
-  - Misc
-  - Unknown
-Mod Version: Unknown
+Specific Version: None
 QA Final: false
 ---
 ## Mod Notes

@@ -4,6 +4,28 @@ filters:
     - '!note["Integration Phase"].contains("Wont Implement")'
 views:
   - type: table
+    name: In Progress
+    filters:
+      and:
+        - note["Integration Phase"].containsAny("Integrating", "Testing")
+    order:
+      - file.name
+      - Integration Phase
+      - ModCategory
+      - CustomConfig
+      - Install Location
+      - Specific Version
+    sort:
+      - property: Integration Phase
+        direction: DESC
+      - property: CustomConfig
+        direction: ASC
+    columnSize:
+      note.Integration Phase: 184
+      note.ModCategory: 253
+      note.CustomConfig: 145
+      note.Install Location: 209
+  - type: table
     name: All Mods
     order:
       - file.name
@@ -48,28 +70,6 @@ views:
       note.CustomConfig: 145
       note.Install Location: 209
   - type: table
-    name: In Progress
-    filters:
-      and:
-        - note["Integration Phase"].containsAny("Integrating", "Testing")
-    order:
-      - file.name
-      - Integration Phase
-      - ModCategory
-      - CustomConfig
-      - Install Location
-      - Specific Version
-    sort:
-      - property: Integration Phase
-        direction: DESC
-      - property: CustomConfig
-        direction: ASC
-    columnSize:
-      note.Integration Phase: 184
-      note.ModCategory: 253
-      note.CustomConfig: 145
-      note.Install Location: 209
-  - type: table
     name: Backlog
     filters:
       and:
@@ -87,7 +87,8 @@ views:
       - property: CustomConfig
         direction: ASC
     columnSize:
-      note.Integration Phase: 184
+      file.name: 254
+      note.Integration Phase: 160
       note.ModCategory: 323
       note.CustomConfig: 145
       note.Install Location: 209

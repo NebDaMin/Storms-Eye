@@ -8,14 +8,14 @@ Loader Compat:
   - NeoForge
 CustomConfig: false
 Integration Phase:
-  - Testing
+  - Completed
 ModCategory:
   - Fix/Improvement
 Specific Version: None
 QA Final: false
 ---
 ## Mod Notes
-- None
+- This is a tool that enables managing ticking entities.
 
 ## Configuration Notes
 - None

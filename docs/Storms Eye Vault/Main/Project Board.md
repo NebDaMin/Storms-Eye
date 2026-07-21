@@ -30,7 +30,6 @@ kanban-plugin: board
 - [ ] Initial Trimdown of JEI
 - [ ] Identify additional extensions for ISSB
 - [ ] [[Test Transparency with shaders]]
-- [ ] Check if Toxony has a compat version
 - [ ] Ensure potions have a stack size
 - [ ] Make Xaeros not check for updates
 - [ ] Reliable entity transfer
@@ -43,6 +42,7 @@ kanban-plugin: board
 - [ ] Add a health progression mechanic
 - [ ] [[Look into ore unification]]
 - [ ] get tpx command
+- [ ] look into the official irons modpack for admin stuff
 
 
 ## Pending
@@ -62,6 +62,7 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] Check if Toxony has a compat version
 - [x] Build out Obsidian
 - [x] [[Workspace Work]]
 - [x] Integrate Born in Chaos Mod

@@ -13,6 +13,8 @@ kanban-plugin: board
 - [ ] enable farseer?
 - [ ] enable murmur?
 - [ ] embeddium breaks lava vision FYI
+- [ ] need more end content
+- [ ] mod to enforce non cheating mod list
 
 
 ## 

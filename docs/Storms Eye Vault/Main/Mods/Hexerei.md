@@ -11,7 +11,7 @@ Integration Phase:
   - Planned
 ModCategory:
   - Core Gameplay
-Mod Version: 0.4.2.3
+Specific Version: None
 QA Final: false
 ---
 ## Mod Notes
