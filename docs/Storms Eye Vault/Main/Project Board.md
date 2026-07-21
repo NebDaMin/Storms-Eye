@@ -47,12 +47,11 @@ kanban-plugin: board
 
 ## Pending
 
-- [ ] Define the Core Gameplay
+- [ ] Add Initial FTB Quests for Familars in [[Alex's Mobs]]
 
 
 ## Working
 
-- [ ] Define the Core Technical Parts
 
 
 ## Review
@@ -62,6 +61,8 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] Define the Core Gameplay
+- [x] Define the Core Technical Parts
 - [x] Check if Toxony has a compat version
 - [x] Build out Obsidian
 - [x] [[Workspace Work]]
