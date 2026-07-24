@@ -47,11 +47,11 @@ kanban-plugin: board
 
 ## Pending
 
-- [ ] Add Initial FTB Quests for Familars in [[Alex's Mobs]]
 
 
 ## Working
 
+- [ ] Add Initial FTB Quests for Familars in [[Alex's Mobs]]
 
 
 ## Review

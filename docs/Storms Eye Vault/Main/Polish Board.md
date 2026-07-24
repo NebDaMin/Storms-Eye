@@ -15,6 +15,10 @@ kanban-plugin: board
 - [ ] embeddium breaks lava vision FYI
 - [ ] need more end content
 - [ ] mod to enforce non cheating mod list
+- [ ] add suiting up or armor managing mod
+- [ ] armored arms mod
+- [ ] clean up welcome messages
+- [ ] set up the good keybinds
 
 
 ## 
