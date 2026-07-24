@@ -43,6 +43,7 @@ kanban-plugin: board
 - [ ] [[Look into ore unification]]
 - [ ] get tpx command
 - [ ] look into the official irons modpack for admin stuff
+- [ ] make the coffer require shulker shells
 
 
 ## Pending

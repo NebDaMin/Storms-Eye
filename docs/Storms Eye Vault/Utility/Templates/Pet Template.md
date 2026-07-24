@@ -7,6 +7,7 @@ Healed With: &l ITEM &r
 - Mount
 - Combat
 - Holds Items
+- Equips Chest
 
 &l Special Abilities &r
 - Storage

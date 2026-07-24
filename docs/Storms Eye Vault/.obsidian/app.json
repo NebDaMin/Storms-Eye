@@ -6,5 +6,5 @@
   "newFileFolderPath": "Main",
   "attachmentFolderPath": "Utility/Attachments",
   "useMarkdownLinks": false,
-  "openBehavior": "file:Main/Project Board"
+  "openBehavior": "file:Core Design"
 }

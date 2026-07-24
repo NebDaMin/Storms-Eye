@@ -19,6 +19,7 @@ kanban-plugin: board
 - [ ] armored arms mod
 - [ ] clean up welcome messages
 - [ ] set up the good keybinds
+- [ ] no mobs in boats
 
 
 ## 
