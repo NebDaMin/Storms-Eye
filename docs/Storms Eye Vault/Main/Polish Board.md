@@ -20,6 +20,7 @@ kanban-plugin: board
 - [ ] clean up welcome messages
 - [ ] set up the good keybinds
 - [ ] no mobs in boats
+- [ ] enchantment descriptions
 
 
 ## 
