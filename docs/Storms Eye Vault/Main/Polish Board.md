@@ -23,6 +23,7 @@ kanban-plugin: board
 - [ ] enchantment descriptions
 - [ ] make respawnable mobs not have broken loot
 - [ ] Expend the Crow Documentations
+- [ ] rebalance the deepling mage set
 
 
 ## 
