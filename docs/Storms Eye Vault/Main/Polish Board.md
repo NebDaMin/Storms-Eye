@@ -21,6 +21,8 @@ kanban-plugin: board
 - [ ] set up the good keybinds
 - [ ] no mobs in boats
 - [ ] enchantment descriptions
+- [ ] make respawnable mobs not have broken loot
+- [ ] Expend the Crow Documentations
 
 
 ## 
