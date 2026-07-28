@@ -13,3 +13,6 @@ Healed With: &l Seed Mixture &r
 - Can Collect items into Coffers
 - Can Pickpocket Villagers
 - The Crow Flute can be used to control the behaviors of many crows
+
+&l Taming Notes &r
+- Throwing the food on the ground instead of right clicking will increase the chances of taming.

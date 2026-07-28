@@ -24,6 +24,8 @@ kanban-plugin: board
 - [ ] make respawnable mobs not have broken loot
 - [ ] Expend the Crow Documentations
 - [ ] rebalance the deepling mage set
+- [ ] fix the armor progression for cataclysm and TOs
+- [ ] make so no baby leviathan duping
 
 
 ## 
