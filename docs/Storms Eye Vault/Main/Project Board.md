@@ -27,7 +27,6 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Initial Trimdown of JEI
 - [ ] Identify additional extensions for ISSB
 - [ ] [[Test Transparency with shaders]]
 - [ ] Ensure potions have a stack size
@@ -48,11 +47,11 @@ kanban-plugin: board
 
 ## Pending
 
+- [ ] Initial Trimdown of JEI
 
 
 ## Working
 
-- [ ] Add Initial FTB Quests for Familars in [[Alex's Mobs]]
 
 
 ## Review
@@ -62,6 +61,7 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] Add Initial FTB Quests for Familars in [[Alex's Mobs]]
 - [x] Define the Core Gameplay
 - [x] Define the Core Technical Parts
 - [x] Check if Toxony has a compat version

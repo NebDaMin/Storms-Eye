@@ -26,6 +26,7 @@ kanban-plugin: board
 - [ ] rebalance the deepling mage set
 - [ ] fix the armor progression for cataclysm and TOs
 - [ ] make so no baby leviathan duping
+- [ ] check the remaining mobs to see if any are compatible with familiars
 
 
 ## 
