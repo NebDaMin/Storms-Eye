@@ -8,6 +8,6 @@ Healed With: &l N/A &r
 - Combat (Only Retaliates)
 
 &l Special Abilities &r
-- When riding, charges up a dash attack that can be used.
+- When riding, charges up a dash attack that can be used to attack mobs.
 
 

@@ -1,0 +1,6 @@
+{
+	chapter_groups: [
+		{ id: "633888AC117D7A9B", title: "Getting Started" }
+		{ id: "20723912CDEB8429", title: "Creatures" }
+	]
+}

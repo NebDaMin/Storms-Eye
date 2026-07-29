@@ -1,4 +1,4 @@
-Tamed With: &l Dinosaur Nugget & Serene Salad &r
+Tamed With: &l Dinosaur Nugget and Serene Salad &r
 Bred With: &l Dinosaur Nugget &r
 Healed With: &l Natural Regeneration &r
 

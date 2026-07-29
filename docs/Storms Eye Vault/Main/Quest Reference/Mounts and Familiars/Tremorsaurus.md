@@ -1,4 +1,4 @@
-Tamed With: &l Primitive Club & Serene Salad &r
+Tamed With: &l Primitive Club and Serene Salad &r
 Bred With: &l Raw or Cooked Dinosaur Chop &r
 Healed With: &l Natural Regeneration &r
 

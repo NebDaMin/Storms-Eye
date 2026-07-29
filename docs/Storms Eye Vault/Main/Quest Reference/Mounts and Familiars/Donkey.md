@@ -1,4 +1,4 @@
-Tamed With: &l Attempted Riding &r
+saTamed With: &l Attempted Riding &r
 Bred With: &l Golden Apple or Golden Carrot &r
 Healed With: &l Sugar, Wheat, Apple, Golden Carrot, Golden Apple, or Hay Bale &r
 

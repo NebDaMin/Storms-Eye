@@ -1,0 +1,1048 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mounts_and_familiars"
+	group: "20723912CDEB8429"
+	icon: "bookoffamiliars:familiar_book"
+	id: "0F91DEAACE058951"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["This book will allow you to store and resurrect your pets. Craft one to get started."]
+			id: "36212DF7959EAF63"
+			rewards: [{
+				id: "1981BFFB41392EAC"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "266A35B1EAC417DA"
+				item: "bookoffamiliars:familiar_book"
+				type: "item"
+			}]
+			title: "Craft a Familiar Book"
+			x: -7.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["36212DF7959EAF63"]
+			description: [
+				"The familiar book can store up to 8 familiars. These can be any tamable animals."
+				""
+				"The familiar book can store up to 8 familiars. These can be any tamable animals.Left click on a tamed creature while holding the book to store it inside. While inside the book, the creature may be renamed. If a creature which has been stored in the book dies. it can be resurrected from the book after a period of time."
+			]
+			icon: "bookoffamiliars:familiar_book"
+			id: "43A176E6C2964109"
+			rewards: [{
+				id: "01389257C44F2B40"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "66E09B706BD23311"
+				title: "How to Use"
+				type: "checkmark"
+			}]
+			title: "How to Use it"
+			x: -4.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["43A176E6C2964109"]
+			id: "53BFED7DBC86C55C"
+			rewards: [{
+				id: "31082BBC1EA4D22F"
+				type: "xp"
+				xp: 25
+			}]
+			subtitle: "The following creatures are best for combat applications"
+			tasks: [{
+				id: "51F995A2693B2456"
+				title: "Combat Mounts"
+				type: "checkmark"
+			}]
+			title: "Combat Familiars"
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["43A176E6C2964109"]
+			id: "3FEC03A1C071F3B1"
+			rewards: [{
+				id: "3DFF06695D7A9199"
+				type: "xp"
+				xp: 25
+			}]
+			subtitle: "The following creatures are best used as player mounts."
+			tasks: [{
+				id: "1F12D35C2E39A951"
+				title: "Mount Familiars"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["43A176E6C2964109"]
+			id: "1CC59D8DF48237DD"
+			rewards: [{
+				id: "28D544F08E1C168B"
+				type: "xp"
+				xp: 25
+			}]
+			subtitle: "The following creatures are best used for their specific utility abilities"
+			tasks: [{
+				id: "49690CD641F8C3D6"
+				title: "Utility Familiars"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"53BFED7DBC86C55C"
+				"3FEC03A1C071F3B1"
+			]
+			id: "2CD9BA55AACC1A24"
+			rewards: [{
+				id: "10E1169846856E01"
+				type: "xp"
+				xp: 25
+			}]
+			subtitle: "The following creatures have both combat abilities and are mounts."
+			tasks: [{
+				id: "4ED12ED6ED7FEB2F"
+				title: "Combat Mounts"
+				type: "checkmark"
+			}]
+			title: "Combat Mount Familiars"
+			x: 3.5d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"53BFED7DBC86C55C"
+				"1CC59D8DF48237DD"
+			]
+			id: "10211F2E83820DFB"
+			rewards: [{
+				id: "441488070DD6BC7E"
+				type: "xp"
+				xp: 25
+			}]
+			subtitle: "The following creatures have bothe combat and utility applications."
+			tasks: [{
+				id: "44F308A1BFFEF466"
+				title: "Combat & Utility"
+				type: "checkmark"
+			}]
+			title: "Combat Utility Familiars"
+			x: 3.5d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"1CC59D8DF48237DD"
+				"3FEC03A1C071F3B1"
+			]
+			id: "058D5554491A3C22"
+			rewards: [{
+				id: "125B630DBFAE8FB9"
+				type: "xp"
+				xp: 25
+			}]
+			subtitle: "The following creatures have both utility features and are mounts."
+			tasks: [{
+				id: "4BE039297CAE5DD4"
+				title: "Utility Mount Familiars"
+				type: "checkmark"
+			}]
+			x: 3.5d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"2CD9BA55AACC1A24"
+				"10211F2E83820DFB"
+				"058D5554491A3C22"
+			]
+			id: "7BA9ACA4EAA0D5E7"
+			rewards: [{
+				id: "3D6B144068DE4632"
+				type: "xp"
+				xp: 25
+			}]
+			subtitle: "These creatures can fill all 3 roles"
+			tasks: [{
+				id: "24A216C09ABCD775"
+				title: "Combat Utility Mounts"
+				type: "checkmark"
+			}]
+			title: "Combat Utility Mount Familiars"
+			x: 6.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7BA9ACA4EAA0D5E7"]
+			description: [
+				"Tamed With: &l Acacia Blossom &r"
+				"Bred With: &l Acacia Blossom &r"
+				"Healed With: &l Acacia Blossom &r"
+				""
+				"&l Standard Abilities &r"
+				"- Mount"
+				"- Combat"
+				"- Equips Chest"
+				""
+				"&l Special Abilities &r"
+				"- Storage Chest Space is extremely large."
+				"- Leader Elephants can be fed Wheat while riding them to make them do a charge attack."
+				"- A carpet can be placed on an elephant for decoration."
+				"- Carpet and Chests can be removed with shears."
+				""
+				"&l Notes on Variants and Taming &r"
+				"- Elephants exist in Leader (Long Tusks) and Standard Variants. Only Standard and Baby elephants can be tamed by the player. To obtain a tamed Leader elephant. you must tame it while it is a baby."
+			]
+			hide_until_deps_complete: true
+			hide_until_deps_visible: false
+			id: "6C436518D3778A58"
+			rewards: [{
+				id: "6E782DC80E497712"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				icon: "alexsmobs:acacia_blossom"
+				id: "5507FCEA5957F826"
+				observe_type: 5
+				timer: 0L
+				to_observe: "alexsmobs:elephant"
+				type: "observation"
+			}]
+			title: "Elephant"
+			x: 6.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["10211F2E83820DFB"]
+			description: [
+				"Tamed With: &l Fish Oil &r"
+				"Bred With: &l Rotten Flesh &r"
+				"Healed With: &l Any Fish &r"
+				""
+				"&l Standard Abilities &r"
+				"- Follows"
+				"- Combat"
+				""
+				"&l Unique Equipment &r"
+				"- Falconry Glove: Allows for holding the bald eagle in hand."
+				"- Falconry Hood: Allows for direct control of bald eagle. This can be removed with shears."
+				""
+				"&l Combat Control notes &r"
+				"- When holding the Eagle with a falconry glove, but without the hood. Aiming at a mob and left clicking will cause the Eagle to attack the mob until it is dead and then will return to you."
+				""
+				"&l Special Ability: Direct Control &r"
+				"- When holding a falconry glove and right clicking to pick up a bald eagle wearing a falconry hood. press left click to release the Bald Eagle and directly control it. Left Shift to end the effect and the eagle will return."
+				"- If flying too far away from the player the eagle will attempt to return on its own. Be careful as it can get caught on obstacles."
+				"- The Eagle will automatically attack entities it flies into."
+			]
+			hide_until_deps_complete: true
+			id: "4F84822C9A161EC1"
+			rewards: [{
+				id: "759AD12666C2FF49"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				icon: "alexsmobs:fish_oil"
+				id: "65D610DE60B7E4F5"
+				observe_type: 5
+				timer: 0L
+				title: "Bald Eagle"
+				to_observe: "alexsmobs:bald_eagle"
+				type: "observation"
+			}]
+			x: 6.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["058D5554491A3C22"]
+			description: [
+				"Tamed With: &l Attempted Riding &r"
+				""
+				"Bred With: &l Golden Apple or Golden Carrot &r"
+				""
+				"Healed With: &l Sugar, Wheat, Apple, Golden Carrot, Golden Apple, or Hay Bale &r"
+				""
+				"&l Standard Abilities &r"
+				"- Mount (Requires Saddle)"
+				"- Equips Chest"
+				""
+				"&l Healing Notes &r"
+				"- The amount healed when fed a healing item increases with better quality items. (left to right, as shown above)"
+			]
+			hide_until_deps_complete: true
+			id: "143815597A0D58EB"
+			rewards: [{
+				id: "5DCB07D4A81FA533"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				icon: "minecraft:golden_carrot"
+				id: "3303ABCE14A2FF56"
+				observe_type: 5
+				timer: 0L
+				title: "Donkey"
+				to_observe: "minecraft:donkey"
+				type: "observation"
+			}]
+			x: 4.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["058D5554491A3C22"]
+			description: [
+				"Tamed With: &l Attempted Riding &r"
+				"Bred With: &l Hay Bale &r"
+				"Healed With: &l Wheat, Hay Bale &r"
+				""
+				"&l Standard Abilities &r"
+				"- Mount"
+				"- Equips Chest"
+				""
+				"&l Healing Notes &r"
+				"- The amount healed when fed a healing item increases with better quality items. (left to right, as shown above)"
+			]
+			hide_until_deps_complete: true
+			id: "215E0408D88D91AA"
+			rewards: [{
+				id: "0AE725158B8D8751"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				icon: "minecraft:hay_block"
+				id: "230B3ED6ECDBED1F"
+				observe_type: 5
+				timer: 0L
+				title: "Llama"
+				to_observe: "minecraft:llama"
+				type: "observation"
+			}]
+			x: 3.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["058D5554491A3C22"]
+			description: [
+				"Tamed With: &l Attempted Riding &r"
+				""
+				"Bred With: &l N/A &r"
+				""
+				"Healed With: &l Sugar, Wheat, Apple, Golden Carrot, Golden Apple, or Hay Bale &r"
+				""
+				"&l Standard Abilities &r"
+				"- Mount (Requires Saddle)"
+				"- Equips Chest"
+				""
+				"&l Healing Notes &r"
+				"- The amount healed when fed a healing item increases with better quality items. (left to right, as shown above)"
+			]
+			hide_until_deps_complete: true
+			id: "78165089E62049FB"
+			rewards: [{
+				id: "6C3CB710B6541B94"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				icon: "minecraft:sugar"
+				id: "067720C5CC79A071"
+				observe_type: 5
+				timer: 0L
+				title: "Mule"
+				to_observe: "minecraft:mule"
+				type: "observation"
+			}]
+			x: 2.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["2CD9BA55AACC1A24"]
+			description: [
+				"Tamed With: &l Caramel Apple &r"
+				"Bred With: &l Candy Cane &r"
+				"Healed With: &l N/A &r"
+				""
+				"&l Standard Abilities &r"
+				"- Follows"
+				"- Mount (Requires Saddle)"
+				"- Combat (Only Retaliates)"
+				""
+				"&l Special Abilities &r"
+				"- When riding, charges up a dash attack that can be used to attack mobs."
+			]
+			hide_until_deps_complete: true
+			id: "0E2A59BC053A9A6A"
+			rewards: [{
+				id: "0716C6B0C45D4655"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				icon: "alexscaves:caramel_apple"
+				id: "60F9C49D45751585"
+				observe_type: 5
+				timer: 0L
+				title: "Candicorn"
+				to_observe: "alexscaves:candicorn"
+				type: "observation"
+			}]
+			x: 4.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2CD9BA55AACC1A24"]
+			description: [
+				"Tamed With: &l Primitive Club and Serene Salad &r"
+				"Bred With: &l Raw or Cooked Dinosaur Chop &r"
+				"Healed With: &l Natural Regeneration &r"
+				""
+				"&l Standard Abilities &r"
+				"- Follows"
+				"- Mount"
+				"- Combat"
+				""
+				"&l Special Abilities &r"
+				"- Can Roar to scare mobs away."
+				""
+				"&l Special Breeding Instructions &r"
+				"- If a Tremorsaurus gets stunned by a hit from a Primitive Club, feeding it a Serene Salad will automatically remove the effect - performing this procedure 3-8 times will tame it."
+			]
+			hide_until_deps_complete: true
+			id: "2EF85210665201F7"
+			rewards: [{
+				id: "3CE0845B6A6AA923"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "alexscaves:primitive_club"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "368B76C66CD5A131"
+				observe_type: 5
+				timer: 0L
+				title: "Tremorsaurus"
+				to_observe: "alexscaves:tremorsaurus"
+				type: "observation"
+			}]
+			x: 3.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2CD9BA55AACC1A24"]
+			description: [
+				"Tamed With: &l Waste Drum &r"
+				"Bred With: &l Nuclear Bomb &r"
+				"Healed With: &l Natural Regeneration &r"
+				""
+				"&l Standard Abilities &r"
+				"- Follows"
+				"- Mount"
+				"- Combat"
+				""
+				"&l Special Abilities &r"
+				"- Will Regenerate health faster if affected by the irradiated status effect"
+				"- Can roar to scare smaller mobs away."
+				"- Can fire Energy Beam "
+				""
+				"&l Special Hatching Instructions &r"
+				"- A Tremorzilla is spawned by triggering a Nuclear Bomb or Nucleeper explosion on a Tremorzilla Egg - it will always spawn as a baby."
+			]
+			hide_until_deps_complete: true
+			id: "5D54525EA559ADA7"
+			rewards: [{
+				id: "1B9204AEB595685F"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				icon: "alexscaves:waste_drum"
+				id: "7C39C2C89AC3A3D2"
+				observe_type: 5
+				timer: 0L
+				title: "Tremorzilla"
+				to_observe: "alexscaves:tremorzilla"
+				type: "observation"
+			}]
+			x: 2.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["1CC59D8DF48237DD"]
+			description: [
+				"Tamed With: &l Cosmic Cod &r"
+				"Bred With: &l Cosmic Cod &r"
+				"Healed With: &l Chorus Fruit &r"
+				""
+				"&l Standard Abilities &r"
+				"- Follows"
+				""
+				"&l Special Ability: Void Recovery &r"
+				"- A Following Cosmaw will attempt to rescue the player if they drop into the void in the end. It will pick them up and drop them on the closest end island."
+			]
+			hide_until_deps_complete: true
+			id: "02776F03727F409E"
+			rewards: [{
+				id: "6D23600030FC4BC0"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				icon: "alexsmobs:cosmic_cod"
+				id: "2544AE4C3ED2FB08"
+				observe_type: 5
+				timer: 0L
+				title: "Cosmaw"
+				to_observe: "alexsmobs:cosmaw"
+				type: "observation"
+			}]
+			x: 1.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["1CC59D8DF48237DD"]
+			description: [
+				"Tamed With: &l Any Vanilla Seeds &r"
+				"Bred With: &l N/A &r"
+				"Healed With: &l N/A &r"
+				""
+				"&l Standard Abilities &r"
+				"- Follows"
+				""
+				"&l Special Abilities &r"
+				"- Imitates the sounds of hostile mobs nearby."
+			]
+			hide_until_deps_complete: true
+			id: "6C28BB7D1AF6308E"
+			rewards: [{
+				id: "530440E570788EF5"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				icon: "minecraft:wheat_seeds"
+				id: "03BEFB9CD39AA9DE"
+				observe_type: 5
+				timer: 0L
+				title: "Parrot"
+				to_observe: "minecraft:parrot"
+				type: "observation"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["1CC59D8DF48237DD"]
+			description: [
+				"Tamed With: &l Raw Cod or Salmon &r"
+				"Bred With: &l Raw Cod or Salmon &r"
+				"Healed With: &l Raw Cod or Salmon &r"
+				""
+				"&l Standard Abilities &r"
+				"- Follows"
+				"- Cat Stuff"
+				""
+				"&l Special Abilities &r"
+				"- Creepers flee from cats."
+			]
+			hide_until_deps_complete: true
+			id: "37A8F8DEB5A06DCE"
+			rewards: [{
+				id: "6F1D1A659F0AA3F9"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				icon: "minecraft:cod"
+				id: "28949A97BDD552CD"
+				observe_type: 5
+				timer: 0L
+				title: "Cat"
+				to_observe: "minecraft:cat"
+				type: "observation"
+			}]
+			x: -1.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["1CC59D8DF48237DD"]
+			description: [
+				"Tamed With: &l Held Item &r"
+				"Bred With: &l Amethyst Shard &r"
+				"Healed With: &l Natural Regeneration &r"
+				""
+				"&l Standard Abilities &r"
+				"- Follows"
+				"- Holds Items"
+				""
+				"&l Special Abilities &r"
+				"- Is friendly and will follow when given an item to hold"
+				"- Will seek out more of the same item and give them to the player"
+				""
+				"&l Breeding Note &r"
+				"- Must be given an Amethyst Shard while dancing next to a jukebox to spawn a new Allay."
+			]
+			hide_until_deps_complete: true
+			id: "69205C84B07B5693"
+			rewards: [{
+				id: "401F3919F6EBFAAE"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				icon: "minecraft:amethyst_shard"
+				id: "58A1B34727369115"
+				observe_type: 5
+				timer: 0L
+				title: "Allay"
+				to_observe: "minecraft:allay"
+				type: "observation"
+			}]
+			x: -2.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["1CC59D8DF48237DD"]
+			description: [
+				"Tamed With: &l Lava Power Cell &r"
+				"Bred With: &l N/A &r"
+				"Healed With: &l N/A &r"
+				""
+				"&l Standard Abilities &r"
+				"- Follows"
+				"- Holds Items"
+				""
+				"&l Special Abilities &r"
+				"- Functions as a portable chest that can follow the player."
+				"- Can be placed in a bucket for easy transportation"
+			]
+			hide_until_deps_complete: true
+			id: "2B3B73A30333F800"
+			rewards: [{
+				id: "2F413CFA5038C483"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				icon: "cataclysm:lava_power_cell"
+				id: "2188164A4F38FA09"
+				observe_type: 5
+				timer: 0L
+				title: "Netherite Ministrosity"
+				to_observe: "cataclysm:netherite_ministrosity"
+				type: "observation"
+			}]
+			x: -3.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["1CC59D8DF48237DD"]
+			description: [
+				"Tamed With: &l Raw Cod, Raw Salmon &r"
+				"Bred With: &l Raw Rabbit &r"
+				"Healed With: &l Raw Cod, Raw Salmon &r"
+				""
+				"&l Standard Abilities &r"
+				"- Follows"
+				""
+				"&l Special Abilities &r"
+				"- Can be used to send mail, right click the owl with a sealed envelope or courier package."
+				""
+				"&l Taming Notes &r"
+				"- Throwing the food on the ground instead of right clicking will increase the chances of taming."
+			]
+			hide_until_deps_complete: true
+			id: "770ED5D862EFC706"
+			rewards: [{
+				id: "163FDDD51F2943B1"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				icon: "minecraft:salmon"
+				id: "24B7037D28D6E229"
+				observe_type: 5
+				timer: 0L
+				title: "Owl"
+				to_observe: "hexerei:owl"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["1CC59D8DF48237DD"]
+			description: [
+				"Tamed With: &l Seed Mixture &r"
+				"Bred With: &l N/A &r"
+				"Healed With: &l Seed Mixture &r"
+				""
+				"&l Standard Abilities &r"
+				"- Follows"
+				"- Combat"
+				"- Holds Items"
+				""
+				"&l Special Abilities &r"
+				"- Many of these abilities can be configured with the Crow Flute or Shift Right Clicking the crow."
+				"- Can Harvest Crops"
+				"- Can Collect items into Coffers"
+				"- Can Pickpocket Villagers"
+				"- The Crow Flute can be used to control the behaviors of many crows"
+				""
+				"&l Taming Notes &r"
+				"- Throwing the food on the ground instead of right clicking will increase the chances of taming."
+			]
+			hide_until_deps_complete: true
+			id: "20E613C3B3CCE39C"
+			rewards: [{
+				id: "64E94F5B8AE7C2F9"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				icon: "hexerei:seed_mixture"
+				id: "22AD256737E04939"
+				observe_type: 5
+				timer: 0L
+				title: "Crow"
+				to_observe: "hexerei:crow"
+				type: "observation"
+			}]
+			x: -5.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["1CC59D8DF48237DD"]
+			description: [
+				"Tamed With: &l Radgill &r"
+				"Bred With: &l Radgill &r"
+				"Healed With: &l Absorbing Radiation from Owner &r"
+				""
+				"&l Standard Abilities &r"
+				"- Follows"
+				""
+				"&l Special Abilities &r"
+				"- Will remove the irradiated status effect from their owner"
+				"- Nucleepers flee from Raycats"
+			]
+			hide_until_deps_complete: true
+			id: "1858C9CB30E4B29B"
+			rewards: [{
+				id: "7D3A906456182161"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				icon: "alexscaves:radgill"
+				id: "45C6E88981C8DA30"
+				observe_type: 5
+				timer: 0L
+				title: "Raycat"
+				to_observe: "alexscaves:raycat"
+				type: "observation"
+			}]
+			x: -6.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["3FEC03A1C071F3B1"]
+			description: [
+				"Tamed With: &l Already Tame &r"
+				"Bred With: &l Cactus &r"
+				"Healed With: &l Cactus &r"
+				""
+				"&l Standard Abilities &r"
+				"- Mount (Requires Saddle)"
+				""
+				"&l Special Abilities &r"
+				"- Can carry 2 players."
+			]
+			hide_until_deps_complete: true
+			id: "1C49B1887E3F95F6"
+			rewards: [{
+				id: "0292EB36B0FBE3A8"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				icon: "minecraft:cactus"
+				id: "732B0BAC2E8522F8"
+				observe_type: 5
+				timer: 0L
+				title: "Camel"
+				to_observe: "minecraft:camel"
+				type: "observation"
+			}]
+			x: -4.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3FEC03A1C071F3B1"]
+			description: [
+				"Tamed With: &l Attempted Riding &r"
+				"Bred With: &l Golden Apple or Golden Carrot &r"
+				"Healed With: &l Sugar, Wheat, Apple, Golden Carrot, Golden Apple, or Hay Bale &r"
+				""
+				"&l Standard Abilities &r"
+				"- Mount (Requires Saddle)"
+				""
+				"&l Special Abilities &r"
+				"- Can Equip Horse Armor"
+				""
+				"&l Healing Notes &r"
+				"- The amount healed when fed a healing item increases with better quality items. (left to right, as shown above)"
+			]
+			hide_until_deps_complete: true
+			id: "112234134BA5BB06"
+			rewards: [{
+				id: "1A0AE79EB742A2EF"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				icon: "minecraft:golden_apple"
+				id: "6AD466AFB5EF148A"
+				observe_type: 5
+				timer: 0L
+				title: "Horse"
+				to_observe: "minecraft:horse"
+				type: "observation"
+			}]
+			x: -6.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3FEC03A1C071F3B1"]
+			description: [
+				"Tamed With: &l Trilocaris Tail &r"
+				"Bred With: &l Raw Cod or Cooked Cod &r"
+				"Healed With: &l Natural Regeneration &r"
+				""
+				"&l Standard Abilities &r"
+				"- Follows"
+				"- Mount"
+				""
+				"&l Special Abilities &r"
+				"- Flying Mount"
+			]
+			hide_until_deps_complete: true
+			id: "30F9AC09AE08819A"
+			rewards: [{
+				id: "31518DC967C11BBB"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				icon: "alexscaves:trilocaris_tail"
+				id: "106ADEAC78BEC32E"
+				observe_type: 5
+				timer: 0L
+				title: "Subterranodon"
+				to_observe: "alexscaves:subterranodon"
+				type: "observation"
+			}]
+			x: -5.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["53BFED7DBC86C55C"]
+			description: [
+				"Tamed With: &l Sniffer Egg &r"
+				"Bred With: &l N/A &r"
+				"Healed With: &l Bone, Koboleton Bone &r"
+				""
+				"&l Standard Abilities &r"
+				"- Follows"
+				"- Combat"
+				""
+				"&l Special Abilities &r"
+				"- Can be placed in a bucket for easy transportation"
+				""
+				"&l Taming Notes &r"
+				"- The Modern Remnant is initially obtained from an the Remnant's Skull. Place the skull in the world to summon the Modern Remnant then feed it the Sniffer Egg to tame."
+			]
+			hide_until_deps_complete: true
+			id: "0FA5E5A41B71CF85"
+			rewards: [{
+				id: "40538C081EBF374C"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				icon: "minecraft:sniffer_egg"
+				id: "3244911DC704EC4B"
+				observe_type: 5
+				timer: 0L
+				title: "Modern Remnant"
+				to_observe: "cataclysm:modern_remnant"
+				type: "observation"
+			}]
+			x: -3.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["53BFED7DBC86C55C"]
+			description: [
+				"Tamed With: &l Tropical Fish &r"
+				"Bred With: &l N/A &r"
+				"Healed With: &l Any Raw Fish &r"
+				""
+				"&l Standard Abilities &r"
+				"- Follows"
+				"- Combat"
+				""
+				"&l Special Abilities &r"
+				"- Multiple Attacks including a powerful beam attack"
+				"- Can be placed in a bucket for easy transportation"
+				""
+				"&l Hatching Notes &r"
+				"- The Baby Leviathan is initially obtained from an Abyssal egg drop from the Leviathan boss. It needs to be placed underwater to hatch. It is recommended that you close this area off to prevent if from escaping before it is tamed."
+			]
+			hide_until_deps_complete: true
+			id: "50D7E1E9947AE371"
+			rewards: [{
+				id: "04CECA188CBD43D3"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				icon: "minecraft:tropical_fish"
+				id: "3EBD83C075132F76"
+				observe_type: 5
+				timer: 0L
+				title: "The Baby Leviathan"
+				to_observe: "cataclysm:the_baby_leviathan"
+				type: "observation"
+			}]
+			x: -2.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["53BFED7DBC86C55C"]
+			description: [
+				"Tamed With: &l Flowers* &r"
+				"Bred With: &l Bone Meal &r"
+				"Healed With: &l Flowers &r"
+				""
+				"&l Standard Abilities &r"
+				"- Follows"
+				"- Combat"
+				""
+				"&l Special Abilities &r"
+				"- Flutters can be interacted with a flower pot to give them some armor."
+				"- Flutters will use ranged attacks to attack the mob the player attacks."
+				"- If flutters are bred near an Azalea, the Azalea will blossom."
+				""
+				"&l Special Taming Notes &r"
+				"- When taming, flutters will only consume 1 flower of each type, so you must bring a variety of flowers when trying to tame them."
+			]
+			hide_until_deps_complete: true
+			id: "56AF21F01068D278"
+			rewards: [{
+				id: "0831128524E48F30"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				icon: "minecraft:red_tulip"
+				id: "08BCD220782F1897"
+				observe_type: 5
+				timer: 0L
+				title: "Flutter"
+				to_observe: "alexsmobs:flutter"
+				type: "observation"
+			}]
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["53BFED7DBC86C55C"]
+			description: [
+				"Tamed With: &l Dinosaur Nugget and Serene Salad &r"
+				"Bred With: &l Dinosaur Nugget &r"
+				"Healed With: &l Natural Regeneration &r"
+				""
+				"&l Standard Abilities &r"
+				"- Follows"
+				"- Combat"
+				""
+				"&l Special Abilities &r"
+				"- Storage"
+				""
+				"&l Special Breeding Instructions &r"
+				"- If a Vallumraptor steals a Dinosaur Nugget from a chest, it will eat it almost immediately. Upon eating it, it will lie down and take a nap for 10 seconds - if fed a Serene Salad while napping, it will automatically become tamed"
+			]
+			hide_until_deps_complete: true
+			id: "7617C5496A2DBCA6"
+			rewards: [{
+				id: "279CD6DA82CF3FAA"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				icon: "alexscaves:dinosaur_nugget"
+				id: "39BE1F9097C42382"
+				observe_type: 5
+				timer: 0L
+				title: "Vallumraptor"
+				to_observe: "alexscaves:vallumraptor"
+				type: "observation"
+			}]
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["53BFED7DBC86C55C"]
+			description: [
+				"Tamed With: &l Bone &r"
+				"Bred With: &l Any Raw Vanilla Meat &r"
+				"Healed With: &l Any Raw Vanilla Meat &r"
+				""
+				"&l Standard Abilities &r"
+				"- Follows"
+				"- Combat"
+				""
+				"&l Special Abilities &r"
+				"- Storage"
+			]
+			hide_until_deps_complete: true
+			id: "5F6C5B98F0B253CE"
+			rewards: [{
+				id: "113E02ECE2C84A3F"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				icon: "minecraft:bone"
+				id: "1CD17BC1EB7868E4"
+				observe_type: 5
+				timer: 0L
+				title: "Wolf"
+				to_observe: "minecraft:wolf"
+				type: "observation"
+			}]
+			x: 1.0d
+			y: -4.5d
+		}
+	]
+	title: "Familiars"
+}

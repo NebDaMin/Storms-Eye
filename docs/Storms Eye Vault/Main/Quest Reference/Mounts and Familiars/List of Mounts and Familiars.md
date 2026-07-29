@@ -1,32 +1,44 @@
 ### Vanilla
-[[Allay]]
-[[Camel]]
-[[Cat]]
-[[Donkey]]
-[[Horse]]
-[[Llama]]
-[[Mule]]
-[[Parrot]]
+
+### Combat
 [[Wolf]]
-
-### Alex's Caves
-[[Subterranodon]]
-https://alexscaves.wiki.gg/wiki/Subterranodon
 [[Vallumraptor]]
-[[Tremorsaurus]]
-[[Raycat]]
-[[Tremorzilla]]
-[[Candicorn]]
-[[Elephant]]
-[[Crow]] 
-
-[[Bald Eagle]]
-[[Cosmaw]]
 [[Flutter]]
-[[Owl]]
-[[Netherite Ministrosity]]
 [[The Baby Leviathan]]
 [[Modern Remnant]]
+
+### Mount
+[[Subterranodon]]
+[[Horse]]
+[[Camel]]
+
+### Utility
+[[Raycat]]
+[[Crow]] 
+[[Owl]]
+[[Netherite Ministrosity]]
+[[Allay]]
+[[Cat]]
+[[Parrot]]
+[[Cosmaw]]
+### Combat/Mount
+[[Tremorzilla]]
+[[Tremorsaurus]]
+[[Candicorn]]
+
+### Mount/Utility
+[[Donkey]]
+[[Llama]]
+[[Mule]]
+
+### Combat/Utility
+[[Bald Eagle]]
+
+### Combat/Mount/Utility
+[[Elephant]]
+
+
+
 
 
 

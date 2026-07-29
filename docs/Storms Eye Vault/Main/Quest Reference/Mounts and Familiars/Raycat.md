@@ -6,5 +6,5 @@ Healed With: &l Absorbing Radiation from Owner &r
 - Follows
 
 &l Special Abilities &r
-- Will remove the irradiated status affect from their owner
+- Will remove the irradiated status effect from their owner
 - Nucleepers flee from Raycats
