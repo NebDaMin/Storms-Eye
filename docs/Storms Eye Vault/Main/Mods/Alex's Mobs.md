@@ -8,7 +8,7 @@ Loader Compat:
   - NeoForge
 CustomConfig: true
 Integration Phase:
-  - Integrating
+  - Return Later
 ModCategory:
   - Secondary Gameplay
 Mod Version: 1.22.9

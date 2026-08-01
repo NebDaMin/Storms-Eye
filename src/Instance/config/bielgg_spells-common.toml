@@ -1,0 +1,59 @@
+
+[lightweight]
+	#Enables The Broken Script, Unstable spells, items, structures and related mechanics.
+	#Restart the game/server after changing this option.
+	enableUnstableContent = false
+	#Enables the Mirroring spell and its creative-tab scroll.
+	#Restart the game/server after changing this option.
+	enableMirroringSpell = false
+	#Power and resistance multiplier for any Iron's Spellbooks school.
+	#School power controls spell damage, range, duration and other spell-specific scaling.
+	#Values below 1.0 weaken a school: 0.5 = 50%, 0.25 = 25%, and 0.0 = no scaling power.
+	#Format: modid:school=multiplier. Examples:
+	#bielgg_spells:shadow=0.5
+	#bielgg_spells:unstable=1.0
+	#irons_spellbooks:fire=1.25
+	schoolMultipliers = ["bielgg_spells:shadow=1.0", "bielgg_spells:unstable=1.0"]
+	#Individual power multiplier for BielGG's Spells.
+	#This is combined with the spell's school multiplier and Iron's native power_multiplier.
+	#Values below 1.0 nerf one spell without weakening its entire school.
+	#Format: bielgg_spells:spell_name=multiplier.
+	spellMultipliers = ["bielgg_spells:the_final_breath=1.0", "bielgg_spells:death_sorrows=1.0", "bielgg_spells:mirroring=1.0", "bielgg_spells:laser_ex3=1.0", "bielgg_spells:glitch_projectiles=1.0", "bielgg_spells:file_collection=1.0", "bielgg_spells:earth_corruption=1.0", "bielgg_spells:unstable_blink=1.0", "bielgg_spells:unstable_bombardment=1.0", "bielgg_spells:multi_task=1.0"]
+
+	[lightweight.spells]
+		#Enables the Snowgrave spell. Restart the game/server after changing this option.
+		enableSnowgrave = false
+		#Enables the Rude Buster spell. Restart the game/server after changing this option.
+		enableRudeBuster = false
+		#Enables the IceShock spell. Restart the game/server after changing this option.
+		enableIceShock = false
+		#Enables the FireShock spell. Restart the game/server after changing this option.
+		enableFireShock = false
+		#Enables the Pacify spell. Restart the game/server after changing this option.
+		enablePacify = false
+		#Allows eligible hostile mobs below 40% health to become Tired.
+		#Disabling Pacify also disables this mechanic.
+		enableTiredMechanic = false
+		#Enables the X-Slash spell. Restart the game/server after changing this option.
+		enableXSlash = true
+		#Enables the complete Bone & Blaster Evocation spells content package.
+		#Restart the game/server after changing this option.
+		enableBoneAndBlasterEvocationSpells = false
+		#Base damage in hearts dealt by every Bone & Blaster Evocation hit.
+		#Individual spellMultipliers are applied afterwards and may reduce a spell to zero.
+		#The final damage can never exceed one heart per hit.
+		#Range: 0.1 ~ 1.0
+		boneAndBlasterDamageHearts = 0.5
+		#Enables the Bone Volley spell. Restart the game/server after changing this option.
+		enableBoneVolley = true
+		#Enables the Bone Corridor spell. Restart the game/server after changing this option.
+		enableBoneCorridor = true
+		#Enables the Blue Bone Barrage spell. Restart the game/server after changing this option.
+		enableBlueBoneBarrage = true
+		#Enables the Gravity Slam spell. Restart the game/server after changing this option.
+		enableGravitySlam = true
+		#Enables the Gaster Blaster spell. Restart the game/server after changing this option.
+		enableGasterBlaster = true
+		#Enables the Bad Time spell. Restart the game/server after changing this option.
+		enableBadTime = true
+

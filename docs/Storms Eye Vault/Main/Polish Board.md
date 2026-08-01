@@ -27,6 +27,9 @@ kanban-plugin: board
 - [ ] fix the armor progression for cataclysm and TOs
 - [ ] make so no baby leviathan duping
 - [ ] check the remaining mobs to see if any are compatible with familiars
+- [ ] fix aqua missile visibility with shaders
+- [ ] do spell balancing
+- [ ] tune redstone down somewhat (gatling balance)
 
 
 ## 

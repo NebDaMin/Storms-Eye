@@ -7,7 +7,7 @@ Loader Compat:
   - Forge
 CustomConfig: true
 Integration Phase:
-  - Planned
+  - Return Later
 ModCategory:
   - Secondary Gameplay
   - Fix/Improvement
@@ -21,6 +21,7 @@ QA Final: false
 - None
 
 ## Remaining Integration TODO
-- [ ] remove the broken spells
+- [x] remove the broken spells
+- [ ] Obliterate the jank items
 ## Remaining QA
 - [ ] None

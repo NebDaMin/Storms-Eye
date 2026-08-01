@@ -8,7 +8,7 @@ Loader Compat:
   - NeoForge
 CustomConfig: true
 Integration Phase:
-  - Planned
+  - Integrating
 ModCategory:
   - Core Technical
   - QOL
@@ -19,7 +19,10 @@ QA Final: false
 - None
 
 ## Configuration Notes
-- None
+- Added the familiars page
+
+## Remaining Integration TODO
+- [ ] Need to add many more quests
 
 ## Remaining QA
 - [ ] None
