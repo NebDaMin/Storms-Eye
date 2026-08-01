@@ -48,11 +48,12 @@ kanban-plugin: board
 ## Pending
 
 - [ ] Initial Trimdown of JEI
+- [ ] Initial Obliteration Pass
 
 
 ## Working
 
-- [ ] Assess bielgg update
+- [ ] Document all mods as files in obi
 
 
 ## Review
@@ -62,6 +63,7 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] Assess bielgg update
 - [x] Add Initial FTB Quests for Familars in [[Alex's Mobs]]
 - [x] Define the Core Gameplay
 - [x] Define the Core Technical Parts

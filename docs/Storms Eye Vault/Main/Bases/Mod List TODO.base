@@ -73,7 +73,7 @@ views:
     name: Backlog
     filters:
       and:
-        - note["Integration Phase"].containsAny("Planned", "Return Later")
+        - note["Integration Phase"].containsAny("Planned", "Return Later", "Assessing")
     order:
       - file.name
       - Integration Phase

@@ -2,25 +2,25 @@
 Install Location:
   - Client
   - Server
-LinkToMod: https://www.curseforge.com/minecraft/mc-mods/born-in-chaos
+LinkToMod: https://www.curseforge.com/minecraft/mc-mods/curios
 Loader Compat:
   - Forge
   - NeoForge
-CustomConfig: false
+CustomConfig: true
 Integration Phase:
-  - Assessing
+  - Return Later
 ModCategory:
-  - Secondary Gameplay
+  - Core Technical
 Specific Version: None
 QA Final: false
 ---
 ## Mod Notes
-- Adds lots of mobs
+- None
 
 ## Configuration Notes
 - None
 
 ## Remaining Integration TODO
-- [ ] Need to figure out how impactful this mod is to normal gameplay
+- [ ] After identifying all content mods, need to clean up the unused slots
 ## Remaining QA
 - [ ] None

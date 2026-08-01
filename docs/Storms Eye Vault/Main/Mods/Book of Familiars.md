@@ -2,25 +2,27 @@
 Install Location:
   - Client
   - Server
-LinkToMod: https://www.curseforge.com/minecraft/mc-mods/born-in-chaos
+LinkToMod: https://www.curseforge.com/minecraft/mc-mods/book-of-familiars
 Loader Compat:
   - Forge
   - NeoForge
 CustomConfig: false
 Integration Phase:
-  - Assessing
+  - Return Later
 ModCategory:
   - Secondary Gameplay
+  - QOL
 Specific Version: None
 QA Final: false
 ---
 ## Mod Notes
-- Adds lots of mobs
+- None
 
 ## Configuration Notes
 - None
 
 ## Remaining Integration TODO
-- [ ] Need to figure out how impactful this mod is to normal gameplay
+- [ ] Fix the loot drop problem (dev working on it)
+- [ ] Configure the number of familiars allowed
 ## Remaining QA
 - [ ] None

@@ -30,6 +30,7 @@ QA Final: false
 
 ## Configuration Notes
 - These mods are all optimization mods.
+- The intent is for these mods to not require any manual configuration
 
 ## Remaining Integration TODO
 - [ ] Figure out if we can use Canary with TOs

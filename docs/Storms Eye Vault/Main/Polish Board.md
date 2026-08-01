@@ -30,6 +30,7 @@ kanban-plugin: board
 - [ ] fix aqua missile visibility with shaders
 - [ ] do spell balancing
 - [ ] tune redstone down somewhat (gatling balance)
+- [ ] clean up the welcome messages
 
 
 ## 
