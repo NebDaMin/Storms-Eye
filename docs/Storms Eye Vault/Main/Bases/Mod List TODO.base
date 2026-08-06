@@ -40,6 +40,7 @@ views:
       - property: CustomConfig
         direction: ASC
     columnSize:
+      file.name: 199
       note.Integration Phase: 184
       note.ModCategory: 253
       note.CustomConfig: 145
