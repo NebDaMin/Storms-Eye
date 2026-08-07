@@ -31,6 +31,8 @@ kanban-plugin: board
 - [ ] do spell balancing
 - [ ] tune redstone down somewhat (gatling balance)
 - [ ] clean up the welcome messages
+- [ ] fix default UI settings
+- [ ] see if we can clean up portal fram entities when wipe happens
 
 
 ## 

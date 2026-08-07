@@ -2,29 +2,15 @@
 Install Location:
   - Client
   - Server
-  - Unknown
-LinkToMod: Unknown
+LinkToMod: https://www.curseforge.com/minecraft/mc-mods/to-tweaks-irons-spells
 Loader Compat:
   - Forge
   - NeoForge
-  - Unknown
 CustomConfig: false
 Integration Phase:
   - Planned
-  - Completed
-  - Assessing
-  - Wont Implement
-  - Integrating
-  - Testing
-  - Return Later
 ModCategory:
-  - Core Technical
   - Core Gameplay
-  - Secondary Gameplay
-  - QOL
-  - Misc
-  - Unknown
-  - Fix/Improvement
   - Cross Compatibility
 Specific Version: None
 QA Final: false
@@ -36,6 +22,11 @@ QA Final: false
 - None
 
 ## Remaining Integration TODO
-- [ ] None
+- [ ] Need to review the config
+- [ ] What integrations does it have with Alex' mobs
+- [ ] Identify all summon spells that are exclusive
+- [ ] test talent curios
+- [ ] look into other TO mods and ones from author
+- [ ] 
 ## Remaining QA
 - [ ] None

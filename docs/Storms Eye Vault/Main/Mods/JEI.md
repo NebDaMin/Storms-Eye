@@ -2,30 +2,16 @@
 Install Location:
   - Client
   - Server
-  - Unknown
-LinkToMod: Unknown
+LinkToMod: https://www.curseforge.com/minecraft/mc-mods/jei
 Loader Compat:
   - Forge
   - NeoForge
-  - Unknown
-CustomConfig: false
+CustomConfig: true
 Integration Phase:
   - Planned
-  - Completed
-  - Assessing
-  - Wont Implement
-  - Integrating
-  - Testing
-  - Return Later
 ModCategory:
   - Core Technical
-  - Core Gameplay
-  - Secondary Gameplay
   - QOL
-  - Misc
-  - Unknown
-  - Fix/Improvement
-  - Cross Compatibility
 Specific Version: None
 QA Final: false
 ---
@@ -33,9 +19,9 @@ QA Final: false
 - None
 
 ## Configuration Notes
-- None
+- Need to hide irrelevant items
 
 ## Remaining Integration TODO
-- [ ] None
+- [ ] Hide spawn eggs
 ## Remaining QA
 - [ ] None

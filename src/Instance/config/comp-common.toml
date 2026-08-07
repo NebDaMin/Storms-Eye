@@ -1,0 +1,6 @@
+
+#Common configuration for Atlantis
+[flowers]
+	#List of flower block registry names that Overworld Mirror will accept.
+	flowerWhitelist = ["minecraft:wither_rose"]
+

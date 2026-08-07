@@ -2,35 +2,20 @@
 Install Location:
   - Client
   - Server
-  - Unknown
-LinkToMod: Unknown
+LinkToMod: https://www.curseforge.com/minecraft/mc-mods/kubejs
 Loader Compat:
   - Forge
   - NeoForge
-  - Unknown
-CustomConfig: false
+CustomConfig: true
 Integration Phase:
   - Planned
-  - Completed
-  - Assessing
-  - Wont Implement
-  - Integrating
-  - Testing
-  - Return Later
 ModCategory:
   - Core Technical
-  - Core Gameplay
-  - Secondary Gameplay
-  - QOL
-  - Misc
-  - Unknown
-  - Fix/Improvement
-  - Cross Compatibility
 Specific Version: None
 QA Final: false
 ---
 ## Mod Notes
-- None
+- This mod will be where all my custom recipes come from
 
 ## Configuration Notes
 - None

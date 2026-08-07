@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## Future Ideas
 
+- [ ] Iterate on the Eye Graphic
 - [ ] stuff for paintings
 - [ ] death management system
 - [ ] UI Improvement
@@ -37,12 +38,23 @@ kanban-plugin: board
 - [ ] Add standardized kubejs or item oblit tech
 - [ ] see if we need to work on the structure sets to avoid overlap
 - [ ] Possibly use [[Botania]] Corporea system for storage?
-- [ ] Iterate on the Eye Graphic
 - [ ] Add a health progression mechanic
 - [ ] [[Look into ore unification]]
 - [ ] get tpx command
 - [ ] look into the official irons modpack for admin stuff
-- [ ] make the coffer require shulker shells
+- [ ] make the coffer more expensive
+- [ ] add atmospherics
+- [ ] Better Combat
+- [ ] Need a health progression system
+- [ ] need a sleeping nerf
+- [ ] is Axe of doom bugged?
+- [ ] add geomancy spells
+- [ ] remove experimental settings popup
+- [ ] clean up f3
+- [ ] xaero minimap
+- [ ] secure the configs from exploting
+- [ ] buff the abyss orbs on the armor
+- [ ] Balance Born in Chaos
 
 
 ## Pending
@@ -53,7 +65,6 @@ kanban-plugin: board
 
 ## Working
 
-- [ ] Document all mods as files in obi
 
 
 ## Review
@@ -63,6 +74,8 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] Document all mods as files in obi
+- [x] test portal frame on dim reload behavior
 - [x] Assess bielgg update
 - [x] Add Initial FTB Quests for Familars in [[Alex's Mobs]]
 - [x] Define the Core Gameplay
