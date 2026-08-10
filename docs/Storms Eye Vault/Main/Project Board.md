@@ -62,6 +62,7 @@ kanban-plugin: board
 ## Pending
 
 - [ ] Add standardized kubejs or item oblit tech
+- [ ] Add JEI groups
 - [ ] Initial Trimdown of JEI
 
 
