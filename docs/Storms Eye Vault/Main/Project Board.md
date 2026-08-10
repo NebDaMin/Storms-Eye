@@ -35,7 +35,6 @@ kanban-plugin: board
 - [ ] Reliable entity transfer
 - [ ] minimalize [[Hexerei]]
 - [ ] add custom sky with sky aesthetics
-- [ ] Add standardized kubejs or item oblit tech
 - [ ] see if we need to work on the structure sets to avoid overlap
 - [ ] Possibly use [[Botania]] Corporea system for storage?
 - [ ] Add a health progression mechanic
@@ -55,12 +54,15 @@ kanban-plugin: board
 - [ ] secure the configs from exploting
 - [ ] buff the abyss orbs on the armor
 - [ ] Balance Born in Chaos
+- [ ] simply swords?
+- [ ] remove armor trim recipes from upgrade table
+- [ ] look into simply swords?
 
 
 ## Pending
 
+- [ ] Add standardized kubejs or item oblit tech
 - [ ] Initial Trimdown of JEI
-- [ ] Initial Obliteration Pass
 
 
 ## Working
@@ -69,6 +71,7 @@ kanban-plugin: board
 
 ## Review
 
+- [ ] Initial Obliteration Pass
 
 
 ## Complete

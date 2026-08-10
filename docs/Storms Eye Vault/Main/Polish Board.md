@@ -33,6 +33,10 @@ kanban-plugin: board
 - [ ] clean up the welcome messages
 - [ ] fix default UI settings
 - [ ] see if we can clean up portal fram entities when wipe happens
+- [ ] can we remove the cofigured mod afterwards?
+- [ ] rework the archeology loot tables
+- [ ] Exoskeleton is bugged, fix it
+- [ ] oblit pass 2
 
 
 ## 
