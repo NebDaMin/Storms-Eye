@@ -57,6 +57,7 @@ kanban-plugin: board
 - [ ] simply swords?
 - [ ] remove armor trim recipes from upgrade table
 - [ ] look into simply swords?
+- [ ] respawn mechanics
 
 
 ## Pending

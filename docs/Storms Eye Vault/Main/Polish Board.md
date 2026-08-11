@@ -37,6 +37,7 @@ kanban-plugin: board
 - [ ] rework the archeology loot tables
 - [ ] Exoskeleton is bugged, fix it
 - [ ] oblit pass 2
+- [ ] clean up probe js after done using
 
 
 ## 
