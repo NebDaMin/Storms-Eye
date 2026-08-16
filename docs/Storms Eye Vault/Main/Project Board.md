@@ -63,12 +63,16 @@ kanban-plugin: board
 - [ ] fast potion drinking
 - [ ] add more paintings
 - [ ] make anvils not break
+- [ ] starfall
+- [ ] skyfall meteorites
+- [ ] atmospherics meteorites
 
 
 ## Pending
 
 - [ ] Add JEI groups
 - [ ] add atmospherics
+- [ ] yeet experement
 
 
 ## Working

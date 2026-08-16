@@ -43,6 +43,7 @@ kanban-plugin: board
 - [ ] what map is ardacraft using?
 - [ ] clean up ftb quests items
 - [ ] remove tipped arrows and lingerings
+- [ ] look to see if echos were fixed for TO (currently oblit)
 
 
 ## 

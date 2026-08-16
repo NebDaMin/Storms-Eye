@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": "Overworld sky color template - edit sky_color and fog_color in the biome JSON."
+  }
+}
