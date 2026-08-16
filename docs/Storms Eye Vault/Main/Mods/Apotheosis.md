@@ -8,14 +8,15 @@ Loader Compat:
   - NeoForge
 CustomConfig: false
 Integration Phase:
-  - Assessing
+  - Wont Implement
 ModCategory:
   - Secondary Gameplay
 Specific Version: None
 QA Final: false
 ---
 ## Mod Notes
-- None
+- probably too large for this pack
+- consider [[apothic enchanting]] instead
 
 ## Configuration Notes
 - None

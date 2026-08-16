@@ -41,6 +41,8 @@ kanban-plugin: board
 - [ ] maybe consider bliss shaders?
 - [ ] conquest reforged
 - [ ] what map is ardacraft using?
+- [ ] clean up ftb quests items
+- [ ] remove tipped arrows and lingerings
 
 
 ## 

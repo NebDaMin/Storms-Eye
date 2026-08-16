@@ -39,7 +39,10 @@
     "!.*pottery_sherd",
     "bielgg_spells:thorn_ring",
     "bielgg_spells:white_cloak",
-    "bielgg_spells:wooden_thorn"
+    "bielgg_spells:wooden_thorn",
+    "alexsmobs:platypus_egg",
+    "alexsmobs:leafcutter_anthill",
+    "alexsmobs:leafcutter_ant_chamber"
 
   ],
   // -----------------------------------------------------------

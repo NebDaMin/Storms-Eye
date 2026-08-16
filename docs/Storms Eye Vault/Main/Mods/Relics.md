@@ -10,7 +10,7 @@ Loader Compat:
   - Unknown
 CustomConfig: false
 Integration Phase:
-  - Assessing
+  - Wont Implement
 ModCategory:
   - Core Technical
   - Core Gameplay

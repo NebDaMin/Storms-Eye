@@ -62,6 +62,7 @@ kanban-plugin: board
 - [ ] food is only for sprint
 - [ ] fast potion drinking
 - [ ] add more paintings
+- [ ] make anvils not break
 
 
 ## Pending
@@ -72,18 +73,18 @@ kanban-plugin: board
 
 ## Working
 
-- [ ] Initial Trimdown of JEI
-- [ ] Add standardized kubejs or item oblit tech
 
 
 ## Review
 
-- [ ] Initial Obliteration Pass
 
 
 ## Complete
 
 **Complete**
+- [x] Add standardized kubejs or item oblit tech
+- [x] Initial Trimdown of JEI
+- [x] Initial Obliteration Pass
 - [x] Document all mods as files in obi
 - [x] test portal frame on dim reload behavior
 - [x] Assess bielgg update
