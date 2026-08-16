@@ -38,6 +38,9 @@ kanban-plugin: board
 - [ ] Exoskeleton is bugged, fix it
 - [ ] oblit pass 2
 - [ ] clean up probe js after done using
+- [ ] maybe consider bliss shaders?
+- [ ] conquest reforged
+- [ ] what map is ardacraft using?
 
 
 ## 

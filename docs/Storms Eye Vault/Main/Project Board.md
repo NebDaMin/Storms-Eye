@@ -42,7 +42,6 @@ kanban-plugin: board
 - [ ] get tpx command
 - [ ] look into the official irons modpack for admin stuff
 - [ ] make the coffer more expensive
-- [ ] add atmospherics
 - [ ] Better Combat
 - [ ] Need a health progression system
 - [ ] need a sleeping nerf
@@ -58,17 +57,23 @@ kanban-plugin: board
 - [ ] remove armor trim recipes from upgrade table
 - [ ] look into simply swords?
 - [ ] respawn mechanics
+- [ ] graphical corporea system
+- [ ] is there a way to edit pachouli book?
+- [ ] food is only for sprint
+- [ ] fast potion drinking
+- [ ] add more paintings
 
 
 ## Pending
 
-- [ ] Add standardized kubejs or item oblit tech
 - [ ] Add JEI groups
-- [ ] Initial Trimdown of JEI
+- [ ] add atmospherics
 
 
 ## Working
 
+- [ ] Initial Trimdown of JEI
+- [ ] Add standardized kubejs or item oblit tech
 
 
 ## Review
