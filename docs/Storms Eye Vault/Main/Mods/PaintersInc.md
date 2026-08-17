@@ -8,7 +8,7 @@ Loader Compat:
   - NeoForge
 CustomConfig: false
 Integration Phase:
-  - Integrating
+  - Completed
 ModCategory:
   - Misc
 Specific Version: None
@@ -16,6 +16,7 @@ QA Final: false
 ---
 ## Mod Notes
 - only uses tags to differentiate paintings, cant hide with kubejs
+- using [[Selectable Painting]] as a workaround
 
 ## Configuration Notes
 - None

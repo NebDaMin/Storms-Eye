@@ -2,21 +2,22 @@
 Install Location:
   - Client
   - Server
-LinkToMod: https://www.curseforge.com/minecraft/mc-mods/selectable-painting
+LinkToMod: https://www.curseforge.com/minecraft/mc-mods/polytone
 Loader Compat:
   - Forge
   - NeoForge
 CustomConfig: false
 Integration Phase:
-  - Completed
+  - Return Later
 ModCategory:
-  - QOL
+  - Core Technical
   - Misc
+  - Cross Compatibility
 Specific Version: None
 QA Final: false
 ---
 ## Mod Notes
-- lets you put whatever painting you want down
+- might use this to add some more customization
 
 ## Configuration Notes
 - None

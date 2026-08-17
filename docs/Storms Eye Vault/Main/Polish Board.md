@@ -44,6 +44,9 @@ kanban-plugin: board
 - [ ] clean up ftb quests items
 - [ ] remove tipped arrows and lingerings
 - [ ] look to see if echos were fixed for TO (currently oblit)
+- [ ] Can we use polytone for anything else?
+- [ ] maybe improve the names of the search eyes
+- [ ] look into adding more paintings
 
 
 ## 

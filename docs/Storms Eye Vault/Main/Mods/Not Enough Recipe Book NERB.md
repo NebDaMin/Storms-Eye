@@ -2,14 +2,13 @@
 Install Location:
   - Client
   - Server
-  - Unknown
 LinkToMod: https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook
 Loader Compat:
   - Forge
   - NeoForge
 CustomConfig: false
 Integration Phase:
-  - Integrating
+  - Completed
 ModCategory:
   - QOL
   - Fix/Improvement
@@ -17,7 +16,7 @@ Specific Version: None
 QA Final: false
 ---
 ## Mod Notes
-- None
+- Disables the recipe book
 
 ## Configuration Notes
 - None

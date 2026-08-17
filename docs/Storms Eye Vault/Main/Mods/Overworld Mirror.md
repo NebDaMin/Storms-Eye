@@ -8,7 +8,7 @@ Loader Compat:
   - NeoForge
 CustomConfig: false
 Integration Phase:
-  - Integrating
+  - Return Later
 ModCategory:
   - Core Technical
 Specific Version: None
@@ -22,10 +22,11 @@ QA Final: false
 - 
 
 ## Remaining Integration TODO
-- [ ] test the portal interaction
-- [ ] test nether access
+- [x] test the portal interaction
+- [x] test nether access
 - [ ] test other dimension access from within
 - [ ] test entity persistence between mirror
+- [x] need to create list of steps to do when wiping
 - [ ] 
 ## Remaining QA
 - [ ] None

@@ -1,8 +1,7 @@
 ---
 Install Location:
   - Client
-  - Server
-LinkToMod: https://www.curseforge.com/minecraft/mc-mods/selectable-painting
+LinkToMod: https://www.curseforge.com/minecraft/mc-mods/yeetusexperimentus
 Loader Compat:
   - Forge
   - NeoForge
@@ -11,12 +10,11 @@ Integration Phase:
   - Completed
 ModCategory:
   - QOL
-  - Misc
 Specific Version: None
 QA Final: false
 ---
 ## Mod Notes
-- lets you put whatever painting you want down
+- Cleans up experemental settings
 
 ## Configuration Notes
 - None

@@ -2,21 +2,35 @@
 Install Location:
   - Client
   - Server
-LinkToMod: https://www.curseforge.com/minecraft/mc-mods/selectable-painting
+  - Unknown
+LinkToMod: Unknown
 Loader Compat:
   - Forge
   - NeoForge
+  - Unknown
 CustomConfig: false
 Integration Phase:
+  - Planned
   - Completed
+  - Assessing
+  - Wont Implement
+  - Integrating
+  - Testing
+  - Return Later
 ModCategory:
+  - Core Technical
+  - Core Gameplay
+  - Secondary Gameplay
   - QOL
   - Misc
+  - Unknown
+  - Fix/Improvement
+  - Cross Compatibility
 Specific Version: None
 QA Final: false
 ---
 ## Mod Notes
-- lets you put whatever painting you want down
+- None
 
 ## Configuration Notes
 - None

@@ -66,13 +66,20 @@ kanban-plugin: board
 - [ ] starfall
 - [ ] skyfall meteorites
 - [ ] atmospherics meteorites
+- [ ] benigamers enhanced visuals
+- [ ] particular reforged
+- [ ] make it so we start in the overworld mirror
+- [ ] fancy titles when switching dims
+- [ ] Starlight mod
+- [ ] sun tilt
+- [ ] make mobs not spawn in mirror
 
 
 ## Pending
 
 - [ ] Add JEI groups
-- [ ] add atmospherics
-- [ ] yeet experement
+- [ ] ex meteors
+- [ ] prevent mob spawn in mirror
 
 
 ## Working
@@ -81,11 +88,13 @@ kanban-plugin: board
 
 ## Review
 
+- [ ] add atmospherics
 
 
 ## Complete
 
 **Complete**
+- [x] yeet experement
 - [x] Add standardized kubejs or item oblit tech
 - [x] Initial Trimdown of JEI
 - [x] Initial Obliteration Pass
