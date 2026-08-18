@@ -73,6 +73,10 @@ kanban-plugin: board
 - [ ] Starlight mod
 - [ ] sun tilt
 - [ ] make mobs not spawn in mirror
+- [ ] https://www.youtube.com/watch?v=zZGAZJekxs0
+- [ ] look into emerald balancing if no vilager trades
+- [ ] https://www.youtube.com/watch?v=kOH1zSib8Fo
+- [ ] https://www.youtube.com/watch?v=3Vy3YJIaibg
 
 
 ## Pending
