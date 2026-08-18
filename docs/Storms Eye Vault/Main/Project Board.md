@@ -77,6 +77,16 @@ kanban-plugin: board
 - [ ] look into emerald balancing if no vilager trades
 - [ ] https://www.youtube.com/watch?v=kOH1zSib8Fo
 - [ ] https://www.youtube.com/watch?v=3Vy3YJIaibg
+- [ ] https://www.curseforge.com/minecraft/mc-mods/stellara
+- [ ] https://www.curseforge.com/minecraft/modpacks/jey-legacy
+- [ ] Occultism has a dimensional storage feature, look int
+- [ ] look into spell restrictions
+	https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks-restrictions
+- [ ] https://www.curseforge.com/minecraft/modpacks/silentiumsmp
+	see if this modpack effectively implements irons restrictions
+- [ ] add ice and fire
+- [ ] ice and fire integrations
+- [ ] review all irons dependencies
 
 
 ## Pending

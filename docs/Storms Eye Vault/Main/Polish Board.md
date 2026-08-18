@@ -47,6 +47,8 @@ kanban-plugin: board
 - [ ] Can we use polytone for anything else?
 - [ ] maybe improve the names of the search eyes
 - [ ] look into adding more paintings
+- [ ] https://www.curseforge.com/minecraft/mc-mods/kubejs-spellcraft
+	for balancing spells
 
 
 ## 
