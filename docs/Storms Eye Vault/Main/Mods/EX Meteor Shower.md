@@ -25,5 +25,6 @@ QA Final: false
 ## Remaining Integration TODO
 - [x] Integrate with economy
 - [ ] integrate with skybox
+- [ ] Try to make work with [[Overworld Mirror]]
 ## Remaining QA
 - [ ] None
