@@ -92,17 +92,19 @@ kanban-plugin: board
 ## Pending
 
 - [ ] Add JEI groups
-- [ ] ex meteors
 - [ ] prevent mob spawn in mirror
 
 
 ## Working
 
+- [ ] ex meteors [[EX Meteor Shower]]
+- [ ] balancing showers in [[EX Meteor Shower]]
 
 
 ## Review
 
 - [ ] add atmospherics
+- [ ] testing irons updates
 
 
 ## Complete
