@@ -8,7 +8,7 @@ Loader Compat:
   - NeoForge
 CustomConfig: false
 Integration Phase:
-  - Integrating
+  - Return Later
 ModCategory:
   - Misc
 Specific Version: None
@@ -26,5 +26,6 @@ QA Final: false
 - [x] Integrate with economy
 - [ ] integrate with skybox
 - [ ] Try to make work with [[Overworld Mirror]]
+- [ ] hide stardust in jei
 ## Remaining QA
 - [ ] None
