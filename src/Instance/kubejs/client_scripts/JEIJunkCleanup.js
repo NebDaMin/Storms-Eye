@@ -17,3 +17,9 @@ JEIEvents.hideItems(event => {
   event.hide('minecraft:barrier') // Hides barrier blocks from jei
   event.hide('minecraft:debug_stick') // Hides debug stick from jei
 });
+
+JEIEvents.hideFluids(event => {
+  event.hide('hexerei:blood_fluid') // Hides debug stick from jei
+  event.hide('hexerei:quicksilver_fluid') // Hides debug stick from jei
+  event.hide('hexerei:tallow_fluid') // Hides debug stick from jei
+});

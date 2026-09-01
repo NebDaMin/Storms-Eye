@@ -26,6 +26,6 @@ QA Final: false
 - [x] Integrate with economy
 - [ ] integrate with skybox
 - [ ] Try to make work with [[Overworld Mirror]]
-- [ ] hide stardust in jei
+- [x] hide stardust in jei
 ## Remaining QA
 - [ ] None

@@ -33,7 +33,6 @@ kanban-plugin: board
 - [ ] Ensure potions have a stack size
 - [ ] Make Xaeros not check for updates
 - [ ] Reliable entity transfer
-- [ ] minimalize [[Hexerei]]
 - [ ] add custom sky with sky aesthetics
 - [ ] see if we need to work on the structure sets to avoid overlap
 - [ ] Possibly use [[Botania]] Corporea system for storage?
@@ -87,6 +86,7 @@ kanban-plugin: board
 - [ ] add ice and fire
 - [ ] ice and fire integrations
 - [ ] review all irons dependencies
+- [ ] review all recipe types for categorical removal
 
 
 ## Pending
@@ -97,19 +97,23 @@ kanban-plugin: board
 
 ## Working
 
-- [ ] ex meteors [[EX Meteor Shower]]
-- [ ] balancing showers in [[EX Meteor Shower]]
 
 
 ## Review
 
-- [ ] add atmospherics
-- [ ] testing irons updates
 
 
 ## Complete
 
 **Complete**
+- [x] minimalize [[Hexerei]]
+- [x] obliterate thruster
+- [x] obliterate wet brooms
+- [x] ex meteors [[EX Meteor Shower]]
+- [x] obliterate stardust
+- [x] balancing showers in [[EX Meteor Shower]]
+- [x] testing irons updates
+- [x] add atmospherics
 - [x] yeet experement
 - [x] Add standardized kubejs or item oblit tech
 - [x] Initial Trimdown of JEI
