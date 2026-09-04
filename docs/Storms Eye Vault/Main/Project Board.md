@@ -28,9 +28,9 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Identify additional extensions for ISSB
-- [ ] [[Test Transparency with shaders]]
 - [ ] Ensure potions have a stack size
+- [ ] prevent mob spawn in mirror
+- [ ] Add JEI groups
 - [ ] Make Xaeros not check for updates
 - [ ] Reliable entity transfer
 - [ ] add custom sky with sky aesthetics
@@ -45,7 +45,6 @@ kanban-plugin: board
 - [ ] Need a health progression system
 - [ ] need a sleeping nerf
 - [ ] is Axe of doom bugged?
-- [ ] add geomancy spells
 - [ ] remove experimental settings popup
 - [ ] clean up f3
 - [ ] xaero minimap
@@ -87,16 +86,26 @@ kanban-plugin: board
 - [ ] ice and fire integrations
 - [ ] review all irons dependencies
 - [ ] review all recipe types for categorical removal
+- [ ] block search mod for loud things and nukes
+- [ ] https://www.youtube.com/watch?v=NFAeBZyXIXY
+- [ ] https://www.youtube.com/watch?v=NFAeBZyXIXY
+- [ ] Ice and Fire spellbooks
+- [ ] Illage and Spillage
+- [ ] Illage and Spell age
+- [ ] Wizards Help
+- [ ] Smoking Stuff a Wizards hobby
+- [ ] [[Magic tubes integration project]]
+- [ ] Magic from the east mod
 
 
 ## Pending
 
-- [ ] Add JEI groups
-- [ ] prevent mob spawn in mirror
+- [ ] add better potion effect icons
 
 
 ## Working
 
+- [ ] [[Smoking Stuff A Wizard's Hobby]]
 
 
 ## Review
@@ -106,6 +115,22 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] [[Legendary Monsters]]
+- [x] Identify additional extensions for ISSB
+- [x] [[choose additional irons addons]]
+- [x] [[GTBC's Geomancy Plus]]
+- [x] [[Legendary Spellbooks]]
+- [x] [[Test Transparency with shaders]]
+- [x] [[Winds Spellbooks]]
+- [x] [[Apprentices Codex]]
+- [x] add geomancy spells
+- [x] geomancy addon
+- [x] fix mirroring
+- [x] update biel
+- [x] recruit storage gone
+- [x] [[Cataclysm spellbooks]] wont implement
+- [x] clean up biel after new version
+- [x] testing updates
 - [x] minimalize [[Hexerei]]
 - [x] obliterate thruster
 - [x] obliterate wet brooms
