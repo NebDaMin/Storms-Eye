@@ -7,7 +7,7 @@ Loader Compat:
   - Forge
 CustomConfig: true
 Integration Phase:
-  - Integrating
+  - Return Later
 ModCategory:
   - Secondary Gameplay
   - Misc
@@ -21,11 +21,14 @@ QA Final: false
 - 
 
 ## Remaining Integration TODO
-- [ ] Need to integrate with other drug mods
-- [ ] rebalance potion effects
-- [ ] [[Magic tubes integration project]]
-- [ ] add new textures
-- [ ] Fix potion effects not showing up
-- [ ] 
+- [x] Need to integrate with other drug mods
+- [x] rebalance potion effects
+- [x] [[Magic tubes integration project]]
+- [x] add new textures
+- [x] Fix potion effects not showing up
+- [x] remove the OP recipes
+- [x] rename the blends
+- [ ] hide op recipes
+- [ ] rework blends recipes with hexerei plants
 ## Remaining QA
 - [ ] None

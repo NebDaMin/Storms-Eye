@@ -90,8 +90,6 @@ kanban-plugin: board
 - [ ] https://www.youtube.com/watch?v=NFAeBZyXIXY
 - [ ] https://www.youtube.com/watch?v=NFAeBZyXIXY
 - [ ] Ice and Fire spellbooks
-- [ ] Illage and Spillage
-- [ ] Illage and Spell age
 - [ ] Wizards Help
 - [ ] Smoking Stuff a Wizards hobby
 - [ ] [[Magic tubes integration project]]
@@ -104,12 +102,12 @@ kanban-plugin: board
 
 ## Pending
 
-- [ ] add better potion effect icons
+- [ ] Illage and Spillage
+- [ ] Illage and Spell age
 
 
 ## Working
 
-- [ ] [[Smoking Stuff A Wizard's Hobby]]
 
 
 ## Review
@@ -119,6 +117,14 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] test immersive addictives
+- [x] smoking stuff bugged
+- [x] gui effect timer
+- [x] effect timer hud
+- [x] [[Smoking Stuff A Wizard's Hobby]]
+- [x] add better potion effect icons
+- [x] status effect bars reforged
+- [x] stylish effects
 - [x] [[Legendary Monsters]]
 - [x] Identify additional extensions for ISSB
 - [x] [[choose additional irons addons]]

@@ -49,6 +49,7 @@ kanban-plugin: board
 - [ ] look into adding more paintings
 - [ ] https://www.curseforge.com/minecraft/mc-mods/kubejs-spellcraft
 	for balancing spells
+- [ ] fix lighting artifacts under nausea
 
 
 ## 
