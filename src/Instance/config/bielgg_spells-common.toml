@@ -19,6 +19,25 @@
 	#Values below 1.0 nerf one spell without weakening its entire school.
 	#Format: bielgg_spells:spell_name=multiplier.
 	spellMultipliers = ["bielgg_spells:the_final_breath=1.0", "bielgg_spells:death_sorrows=1.0", "bielgg_spells:mirroring=1.0", "bielgg_spells:laser_ex3=1.0", "bielgg_spells:glitch_projectiles=1.0", "bielgg_spells:file_collection=1.0", "bielgg_spells:earth_corruption=1.0", "bielgg_spells:unstable_blink=1.0", "bielgg_spells:unstable_bombardment=1.0", "bielgg_spells:multi_task=1.0"]
+	#Enables the Relicron school and EEEAB's Mobs integration content.
+	#This option only has an effect while eeeabsmobs is installed.
+	#Restart the game/server after changing this option.
+	enableRelicronContent = false
+	#Enables the Infinity school and Avaritia integration content.
+	#This option only has an effect while avaritia is installed.
+	#Restart the game/server after changing this option.
+	enableInfinityContent = false
+	#Enables the Tainted school and Cracker's Wither Storm Mod integration content.
+	#This option only has an effect while witherstormmod is installed.
+	#Restart the game/server after changing this option.
+	enableTaintedContent = false
+	#Shows BielGG's Spells message when a player joins a world or server.
+	showLoginMessage = false
+	#Makes BielGG's summon spells use Iron's Spells 'n Spellbooks summon/recast logic.
+	#While enabled, a second cast of the same summon spell uses ISS recast behavior instead of creating another group.
+	#The custom simultaneous Summoned Knight, Shade and Relicron summon limits are ignored.
+	#Restart the game/server after changing this option.
+	issSummonLogic = false
 
 	[lightweight.spells]
 		#Enables the Snowgrave spell. Restart the game/server after changing this option.
