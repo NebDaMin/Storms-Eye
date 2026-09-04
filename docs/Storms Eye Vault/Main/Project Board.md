@@ -96,6 +96,10 @@ kanban-plugin: board
 - [ ] Smoking Stuff a Wizards hobby
 - [ ] [[Magic tubes integration project]]
 - [ ] Magic from the east mod
+- [ ] Draconic Spells Mod
+- [ ] Atlas Additions mod
+- [ ] simply swords with irons integration
+- [ ] Dreamless spells and spellbooks mod
 
 
 ## Pending
