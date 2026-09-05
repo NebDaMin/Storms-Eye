@@ -77,7 +77,6 @@ kanban-plugin: board
 - [ ] https://www.youtube.com/watch?v=3Vy3YJIaibg
 - [ ] https://www.curseforge.com/minecraft/mc-mods/stellara
 - [ ] https://www.curseforge.com/minecraft/modpacks/jey-legacy
-- [ ] Occultism has a dimensional storage feature, look int
 - [ ] look into spell restrictions
 	https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks-restrictions
 - [ ] https://www.curseforge.com/minecraft/modpacks/silentiumsmp
@@ -87,17 +86,20 @@ kanban-plugin: board
 - [ ] review all irons dependencies
 - [ ] review all recipe types for categorical removal
 - [ ] block search mod for loud things and nukes
-- [ ] https://www.youtube.com/watch?v=NFAeBZyXIXY
-- [ ] https://www.youtube.com/watch?v=NFAeBZyXIXY
 - [ ] Ice and Fire spellbooks
 - [ ] Wizards Help
-- [ ] Smoking Stuff a Wizards hobby
-- [ ] [[Magic tubes integration project]]
 - [ ] Magic from the east mod
-- [ ] Draconic Spells Mod
 - [ ] Atlas Additions mod
 - [ ] simply swords with irons integration
 - [ ] Dreamless spells and spellbooks mod
+- [ ] MmmMmmMmmMmm target dummy mod
+- [ ] supplementaries
+- [ ] ammendments
+- [ ] the root of fear
+- [ ] from the shadows reborn
+- [ ] sounds mod
+- [ ] immersive footsteps
+- [ ] ambiance mod
 
 
 ## Pending
@@ -117,6 +119,11 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] Occultism has a dimensional storage feature, look int
+- [x] [[Magic tubes integration project]]
+- [x] Smoking Stuff a Wizards hobby
+- [x] https://www.youtube.com/watch?v=NFAeBZyXIXY
+- [x] https://www.youtube.com/watch?v=NFAeBZyXIXY
 - [x] test immersive addictives
 - [x] smoking stuff bugged
 - [x] gui effect timer

@@ -8,7 +8,7 @@ Loader Compat:
   - NeoForge
 CustomConfig: false
 Integration Phase:
-  - Integrating
+  - Return Later
 ModCategory:
   - Core Gameplay
 Specific Version: None

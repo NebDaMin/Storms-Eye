@@ -8,7 +8,7 @@ Loader Compat:
   - NeoForge
 CustomConfig: false
 Integration Phase:
-  - Planned
+  - Integrating
 ModCategory:
   - Core Gameplay
 Specific Version: None
@@ -21,6 +21,9 @@ QA Final: false
 - None
 
 ## Remaining Integration TODO
-- [ ] None
+- [ ] evaluate if we need any custom recipes
+- [ ] possibly need to redo the scrolls
+- [ ] maybe prevent using scrolls in mirror dim
+- [ ] 
 ## Remaining QA
 - [ ] None

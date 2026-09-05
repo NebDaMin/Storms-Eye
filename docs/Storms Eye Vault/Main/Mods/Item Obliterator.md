@@ -8,7 +8,7 @@ Loader Compat:
   - NeoForge
 CustomConfig: true
 Integration Phase:
-  - Planned
+  - Integrating
 ModCategory:
   - Core Technical
 Specific Version: None

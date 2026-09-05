@@ -23,5 +23,8 @@ QA Final: false
 
 ## Remaining Integration TODO
 - [ ] Review Config
+- [ ] identify any custom recipes needed
+- [ ] possibly add a tier 2 geomancy set
+- [ ] 
 ## Remaining QA
 - [ ] None
