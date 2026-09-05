@@ -51,6 +51,7 @@ kanban-plugin: board
 	for balancing spells
 - [ ] fix lighting artifacts under nausea
 - [ ] remove hitboxes
+- [ ] obfuscate all mod names with kubejs
 
 
 ## 
