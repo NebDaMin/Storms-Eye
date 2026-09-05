@@ -50,6 +50,7 @@ kanban-plugin: board
 - [ ] https://www.curseforge.com/minecraft/mc-mods/kubejs-spellcraft
 	for balancing spells
 - [ ] fix lighting artifacts under nausea
+- [ ] remove hitboxes
 
 
 ## 

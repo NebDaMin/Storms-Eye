@@ -104,8 +104,6 @@ kanban-plugin: board
 
 ## Pending
 
-- [ ] Illage and Spillage
-- [ ] Illage and Spell age
 
 
 ## Working
@@ -119,6 +117,9 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] [[Skarrier mobs]]
+- [x] Illage and Spillage
+- [x] Illage and Spell age
 - [x] Occultism has a dimensional storage feature, look int
 - [x] [[Magic tubes integration project]]
 - [x] Smoking Stuff a Wizards hobby
