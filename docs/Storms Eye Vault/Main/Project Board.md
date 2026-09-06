@@ -28,7 +28,6 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Ensure potions have a stack size
 - [ ] prevent mob spawn in mirror
 - [ ] Add JEI groups
 - [ ] Make Xaeros not check for updates
@@ -100,10 +99,13 @@ kanban-plugin: board
 - [ ] sounds mod
 - [ ] immersive footsteps
 - [ ] ambiance mod
+- [ ] [[Potion Recipe Fix Task]]
+- [ ] quark
 
 
 ## Pending
 
+- [ ] Species mod
 
 
 ## Working
@@ -117,6 +119,9 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] Ensure potions have a stack size
+- [x] [[Stackable Items]]
+- [x] Fix Potion Inventory
 - [x] [[Skarrier mobs]]
 - [x] Illage and Spillage
 - [x] Illage and Spell age

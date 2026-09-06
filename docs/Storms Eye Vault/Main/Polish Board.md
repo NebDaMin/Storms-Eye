@@ -52,6 +52,7 @@ kanban-plugin: board
 - [ ] fix lighting artifacts under nausea
 - [ ] remove hitboxes
 - [ ] obfuscate all mod names with kubejs
+- [ ] Revisit stackable items for potion bundles if doesnt work [[Potion Recipe Fix Task]]
 
 
 ## 

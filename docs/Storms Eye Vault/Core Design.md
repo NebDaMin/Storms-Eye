@@ -3,8 +3,8 @@
 ### Nothing is Sacred Trim the Fat
 Core vanilla mechanics are absolutely on the table to be fucked with. Minimize bloat be trimming some vanilla features.
 
-### Progression over Crafting
-Players want to fight and loot, not rummage around in menus figuring out how to craft something
+### Crafting over Looting
+Players want to fight and loot, but lootable resources should provide choice that enable multiple crafting avenues. All gear should be intentionally created by the player
 
 ### Lean into the Theme
 The theme is paramount, anyone can make a modpack with [[Iron's Spells and Spellbooks]]. set it apart by leaning into the explicit themes that exist apart from any particular mod
