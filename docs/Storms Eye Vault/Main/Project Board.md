@@ -35,8 +35,6 @@ kanban-plugin: board
 - [ ] add custom sky with sky aesthetics
 - [ ] see if we need to work on the structure sets to avoid overlap
 - [ ] Possibly use [[Botania]] Corporea system for storage?
-- [ ] Add a health progression mechanic
-- [ ] [[Look into ore unification]]
 - [ ] get tpx command
 - [ ] look into the official irons modpack for admin stuff
 - [ ] make the coffer more expensive
@@ -70,10 +68,7 @@ kanban-plugin: board
 - [ ] Starlight mod
 - [ ] sun tilt
 - [ ] make mobs not spawn in mirror
-- [ ] https://www.youtube.com/watch?v=zZGAZJekxs0
 - [ ] look into emerald balancing if no vilager trades
-- [ ] https://www.youtube.com/watch?v=kOH1zSib8Fo
-- [ ] https://www.youtube.com/watch?v=3Vy3YJIaibg
 - [ ] https://www.curseforge.com/minecraft/mc-mods/stellara
 - [ ] https://www.curseforge.com/minecraft/modpacks/jey-legacy
 - [ ] look into spell restrictions
@@ -101,11 +96,30 @@ kanban-plugin: board
 - [ ] ambiance mod
 - [ ] [[Potion Recipe Fix Task]]
 - [ ] quark
+- [ ] qliphoth awakening
+- [ ] better fire texture
+- [ ] simple conveyor
+- [ ] Matmos ambient sound
+- [ ] deeper and darker
+- [ ] the abyss 2
+- [ ] lovecraft, beyond the abyss
+- [ ] the Aether
+- [ ] Twilight forrest
+- [ ] bad mobs, to control spawning
+- [ ] bad optimizations
+- [ ] fairy lights
+- [ ] Flerovium (culling extension)
+- [ ] infinity buttons
+- [ ] Magic Vibe Decorations
+- [ ] Mouse Tweaks
+- [ ] PlayerRevive
+- [ ] Quark
+- [ ] Simply Swords
+- [ ] Simple Voice Chat
 
 
 ## Pending
 
-- [ ] Species mod
 
 
 ## Working
@@ -119,6 +133,21 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] Add a health progression mechanic
+- [x] better 3rd person
+- [x] [[Another Furniture]]
+- [x] test ziplines with modded pickaxes
+- [x] check zipline tooltip
+- [x] fastboot
+- [x] https://www.youtube.com/watch?v=kOH1zSib8Fo
+- [x] bosses rise
+- [x] https://www.youtube.com/watch?v=zZGAZJekxs0
+- [x] valoria
+- [x] https://www.youtube.com/watch?v=3Vy3YJIaibg
+- [x] [[Reconnectable Chains]]
+- [x] ziplines rezipped
+- [x] Species mod
+- [x] species
 - [x] Ensure potions have a stack size
 - [x] [[Stackable Items]]
 - [x] Fix Potion Inventory

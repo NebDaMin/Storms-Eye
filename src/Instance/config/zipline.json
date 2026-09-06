@@ -1,0 +1,12 @@
+{
+  "snapRadius": 6.0,
+  "clickReach": 4.0,
+  "useAnywhere": false,
+  "maxTurnAngle": 0.707,
+  "hangOffset": 2.3,
+  "speedMultiplier": 0.8,
+  "realisticPhysics": false,
+  "exitJumpMultiplier": 1.5,
+  "consumeDurability": false,
+  "releaseCooldown": 10
+}

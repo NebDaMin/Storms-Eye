@@ -27,6 +27,7 @@ QA Final: false
 - Saturn
 - Starlight
 - Dont Hit me
+- FastBoot
 
 ## Configuration Notes
 - These mods are all optimization mods.
