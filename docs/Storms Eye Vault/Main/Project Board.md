@@ -113,25 +113,56 @@ kanban-plugin: board
 - [ ] Quark
 - [ ] Simply Swords
 - [ ] Simple Voice Chat
+- [ ] zombie clown only spawn in candy cave
+- [ ] Stone Golem to Familiar List
+- [ ] no potion particles (make sure other effects remain)
+- [ ] mob density checker
+- [ ] better phantom spawning
+- [ ] chaulk mod
+- [ ] locks mod
+- [ ] cataclysm figure out how talismans work
 
 
 ## Pending
 
+- [ ] Windchimes
 
 
 ## Working
 
-- [ ] biome bloom more gradual transition
+- [ ] [[Supplementaries]] config work
 
 
 ## Review
 
-- [ ] [[BetterF3]]
 
 
 ## Complete
 
 **Complete**
+- [x] disable bottled xp
+- [x] testing gold door
+- [x] add blue bomb recipe
+- [x] bison cage
+- [x] camel cage
+- [x] turtle cage
+- [x] no slice map
+- [x] remove planter
+- [x] only use furnature flower box
+- [x] no placable blaze rod
+- [x] serene cage
+- [x] lantern cage
+- [x] remove planters
+- [x] test with flags
+- [x] should we have placeable sticks and blaze rods?
+- [x] no bamboo spikes
+- [x] slice map?
+- [x] are planters redundant?
+- [x] test cage behavior
+- [x] what does enderman head do?
+- [x] Supplementaries painting preview
+- [x] [[BetterF3]]
+- [x] biome bloom more gradual transition
 - [x] remove experimental settings popup
 - [x] make the coffer more expensive
 - [x] Add a health progression mechanic

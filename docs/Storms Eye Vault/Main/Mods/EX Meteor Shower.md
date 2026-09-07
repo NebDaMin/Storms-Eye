@@ -6,9 +6,9 @@ LinkToMod: https://www.curseforge.com/minecraft/mc-mods/ex-meteor-shower
 Loader Compat:
   - Forge
   - NeoForge
-CustomConfig: false
+CustomConfig: true
 Integration Phase:
-  - Return Later
+  - Completed
 ModCategory:
   - Misc
 Specific Version: None
@@ -24,8 +24,8 @@ QA Final: false
 
 ## Remaining Integration TODO
 - [x] Integrate with economy
-- [ ] integrate with skybox
-- [ ] Try to make work with [[Overworld Mirror]]
+- [x] integrate with skybox
+- [x] Try to make work with [[Overworld Mirror]]
 - [x] hide stardust in jei
 ## Remaining QA
 - [ ] None

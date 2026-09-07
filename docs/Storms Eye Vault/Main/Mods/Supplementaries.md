@@ -6,9 +6,9 @@ LinkToMod: https://www.curseforge.com/minecraft/mc-mods/supplementaries
 Loader Compat:
   - Forge
   - NeoForge
-CustomConfig: false
+CustomConfig: true
 Integration Phase:
-  - Return Later
+  - Integrating
 ModCategory:
   - Misc
 Specific Version: None
@@ -18,12 +18,29 @@ QA Final: false
 - None
 
 ## Configuration Notes
-- None
+- removing some redundant items
+- making ropes slow fall (cuz fast scary)
+- no jars
+- no timber frame
+- no daub
+- no Altimeter
+- no skeleton quiver
+- no adventure maps
+- no sus crafting
+- no throwable slimeballs
+- added blue bomb recipe
+- no flower box (already have it)
+- added baby animals to cages
+- 
 
 ## Remaining Integration TODO
-- [ ] review config and clean up
-- [ ] add missing recipes
-- [ ] maybe add ammendments
-- [ ] 
+- [x] review config and clean up
+- [x] add missing recipes
+- [ ] maybe add ammendmants mod
+- [ ] maybe disable hourglass in favor of botania one
+- [x] follow up with bottle xp setting after integrating xp management system
+- [ ] add antique ink recipe in alchemy cauldron
+- [ ] add quiver recipe
+- [ ] hide lumisene fluid in jei
 ## Remaining QA
 - [ ] None
