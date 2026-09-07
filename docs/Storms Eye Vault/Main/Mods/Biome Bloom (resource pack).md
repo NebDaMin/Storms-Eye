@@ -1,15 +1,13 @@
 ---
 Install Location:
   - Client
-LinkToMod: https://www.curseforge.com/minecraft/mc-mods/better-third-person
-Loader Compat:
-  - Forge
-  - NeoForge
+  - Server
+LinkToMod: https://www.curseforge.com/minecraft/texture-packs/biomebloom
 CustomConfig: false
 Integration Phase:
-  - Completed
+  - Integrating
 ModCategory:
-  - QOL
+  - Misc
 Specific Version: None
 QA Final: false
 ---

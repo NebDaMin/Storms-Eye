@@ -1,8 +1,6 @@
 ---
 Install Location:
   - Client
-  - Server
-  - Unknown
 LinkToMod: https://www.curseforge.com/minecraft/mc-mods/betterf3
 Loader Compat:
   - Forge

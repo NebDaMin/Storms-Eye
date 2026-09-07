@@ -12,6 +12,8 @@ views:
       - CustomConfig
       - QA Final
     sort:
+      - property: ModCategory
+        direction: ASC
       - property: Loader Compat
         direction: DESC
     columnSize:
