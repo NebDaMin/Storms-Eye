@@ -3,25 +3,15 @@ Install Location:
   - Client
   - Server
   - Unknown
-LinkToMod: Unknown
-CustomConfig: false
+LinkToMod: https://www.curseforge.com/minecraft/mc-mods/betterf3
+Loader Compat:
+  - Forge
+  - NeoForge
+CustomConfig: true
 Integration Phase:
-  - Planned
   - Completed
-  - Assessing
-  - Wont Implement
-  - Integrating
-  - Testing
-  - Return Later
 ModCategory:
-  - Core Technical
-  - Core Gameplay
-  - Secondary Gameplay
   - QOL
-  - Misc
-  - Unknown
-  - Fix/Improvement
-  - Cross Compatibility
 Specific Version: None
 QA Final: false
 ---
@@ -29,7 +19,7 @@ QA Final: false
 - None
 
 ## Configuration Notes
-- None
+- cleaned up the lines
 
 ## Remaining Integration TODO
 - [ ] None

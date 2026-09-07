@@ -58,3 +58,5 @@ QA Final: false
 - [ ] None
 ## TODO
 - Add all the reworked recipes
+- Make Coffer more expensive
+- 

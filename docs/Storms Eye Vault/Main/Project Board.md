@@ -37,13 +37,10 @@ kanban-plugin: board
 - [ ] Possibly use [[Botania]] Corporea system for storage?
 - [ ] get tpx command
 - [ ] look into the official irons modpack for admin stuff
-- [ ] make the coffer more expensive
 - [ ] Better Combat
 - [ ] Need a health progression system
 - [ ] need a sleeping nerf
 - [ ] is Axe of doom bugged?
-- [ ] remove experimental settings popup
-- [ ] clean up f3
 - [ ] xaero minimap
 - [ ] secure the configs from exploting
 - [ ] buff the abyss orbs on the armor
@@ -124,15 +121,19 @@ kanban-plugin: board
 
 ## Working
 
+- [ ] biome bloom more gradual transition
 
 
 ## Review
 
+- [ ] [[BetterF3]]
 
 
 ## Complete
 
 **Complete**
+- [x] remove experimental settings popup
+- [x] make the coffer more expensive
 - [x] Add a health progression mechanic
 - [x] better 3rd person
 - [x] [[Another Furniture]]
