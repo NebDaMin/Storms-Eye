@@ -31,10 +31,8 @@ kanban-plugin: board
 - [ ] prevent mob spawn in mirror
 - [ ] Add JEI groups
 - [ ] Make Xaeros not check for updates
-- [ ] Reliable entity transfer
 - [ ] add custom sky with sky aesthetics
 - [ ] see if we need to work on the structure sets to avoid overlap
-- [ ] Possibly use [[Botania]] Corporea system for storage?
 - [ ] get tpx command
 - [ ] look into the official irons modpack for admin stuff
 - [ ] Better Combat
@@ -131,6 +129,9 @@ kanban-plugin: board
 ## Working
 
 - [ ] [[Supplementaries]] config work
+- [ ] Occultism Dimenstional Storage
+- [ ] Occultism balancing
+- [ ] Occultism documentation
 
 
 ## Review
@@ -140,6 +141,9 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] Reliable entity transfer
+- [x] Possibly use [[Botania]] Corporea system for storage?
+- [x] testing [[Botania]]
 - [x] disable bottled xp
 - [x] testing gold door
 - [x] add blue bomb recipe
