@@ -36,8 +36,8 @@ QA Final: false
 ## Remaining Integration TODO
 - [x] review config and clean up
 - [x] add missing recipes
-- [ ] maybe add ammendmants mod
-- [ ] maybe disable hourglass in favor of botania one
+- [x] maybe add ammendmants mod
+- [x] maybe disable hourglass in favor of botania one
 - [x] follow up with bottle xp setting after integrating xp management system
 - [ ] add antique ink recipe in alchemy cauldron
 - [ ] add quiver recipe

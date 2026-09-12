@@ -119,11 +119,15 @@ kanban-plugin: board
 - [ ] chaulk mod
 - [ ] locks mod
 - [ ] cataclysm figure out how talismans work
+- [ ] ammendments mod
 
 
 ## Pending
 
 - [ ] Windchimes
+- [ ] chalk mod
+- [ ] ascendant arcana
+- [ ] remove all start dust recipes
 
 
 ## Working
@@ -141,6 +145,7 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] no zip durability loss
 - [x] Reliable entity transfer
 - [x] Possibly use [[Botania]] Corporea system for storage?
 - [x] testing [[Botania]]

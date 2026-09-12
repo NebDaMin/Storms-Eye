@@ -28,6 +28,15 @@ QA Final: false
 - Starlight
 - Dont Hit me
 - FastBoot
+- BadOptimizations
+- Packet Fixer
+- Particle Core
+- AllTheLeaks (Memory Leak Fix)
+- Ixeris
+- More Culling Reforged
+- Concurrent Chunk Management Engine
+- Debugify Reforged
+- 
 
 ## Configuration Notes
 - These mods are all optimization mods.
