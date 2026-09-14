@@ -54,6 +54,9 @@ kanban-plugin: board
 - [ ] remove hitboxes
 - [ ] obfuscate all mod names with kubejs
 - [ ] Revisit stackable items for potion bundles if doesnt work [[Potion Recipe Fix Task]]
+- [ ] unify silver ores?
+- [ ] clean up spiritfire recipes
+- [ ] remove occult rituals from jei
 
 
 ## 

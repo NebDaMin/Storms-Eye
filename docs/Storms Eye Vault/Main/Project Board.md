@@ -120,6 +120,8 @@ kanban-plugin: board
 - [ ] locks mod
 - [ ] cataclysm figure out how talismans work
 - [ ] ammendments mod
+- [ ] balance occultism dim storage
+- [ ] custom [[Occultism]]
 
 
 ## Pending
@@ -132,9 +134,6 @@ kanban-plugin: board
 
 ## Working
 
-- [ ] Occultism Dimenstional Storage
-- [ ] Occultism balancing
-- [ ] Occultism documentation
 
 
 ## Review
@@ -144,6 +143,12 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] occultism recipe removal
+- [x] hide storage accessor
+- [x] remove demons dream seeds
+- [x] Occultism documentation
+- [x] Occultism Dimenstional Storage
+- [x] Occultism balancing
 - [x] [[Supplementaries]] config work
 - [x] no zip durability loss
 - [x] Reliable entity transfer
