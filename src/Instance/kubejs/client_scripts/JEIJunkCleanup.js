@@ -1,7 +1,7 @@
 // Visit the wiki for more info - https://kubejs.com/
 
 JEIEvents.hideItems(event => {
-  event.hide(/.*spawn_egg.*/) // Hide all spawn eggs
+  // event.hide(/.*spawn_egg.*/) // Hide all spawn eggs
   event.hide(/^(?!.*azure_seastone_mural_empty).*azure_seastone_mural.*/) // Hide all Azure Seastone Murals except the empty one
   event.hide(/.*curved_azure_seastone.*/) // Hide all curved Azure Seastones
   event.hide('minecraft:light') // Hide all lights
@@ -22,4 +22,5 @@ JEIEvents.hideFluids(event => {
   event.hide('hexerei:blood_fluid') // Hides debug stick from jei
   event.hide('hexerei:quicksilver_fluid') // Hides debug stick from jei
   event.hide('hexerei:tallow_fluid') // Hides debug stick from jei
+  event.hide('supplementaries:lumisene') // Hides debug stick from jei
 });

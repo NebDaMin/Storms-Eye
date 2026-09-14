@@ -39,8 +39,7 @@ QA Final: false
 - [x] maybe add ammendmants mod
 - [x] maybe disable hourglass in favor of botania one
 - [x] follow up with bottle xp setting after integrating xp management system
-- [ ] add antique ink recipe in alchemy cauldron
-- [ ] add quiver recipe
-- [ ] hide lumisene fluid in jei
+- [x] add quiver recipe
+- [x] hide lumisene fluid in jei
 ## Remaining QA
 - [ ] None

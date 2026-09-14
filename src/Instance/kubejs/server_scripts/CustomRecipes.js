@@ -11,5 +11,19 @@ ServerEvents.recipes(event => {
             A: 'minecraft:blue_dye',
             B: 'supplementaries:bomb'
         }
+    ),
+
+        event.shaped(
+        Item.of('supplementaries:quiver', 1 ),
+        [
+            ' AB',
+            'A B',
+            ' AB'
+        ],
+        {
+            A: 'supplementaries:rope',
+            B: 'minecraft:leather'
+        }
     )
+
 })

@@ -132,7 +132,6 @@ kanban-plugin: board
 
 ## Working
 
-- [ ] [[Supplementaries]] config work
 - [ ] Occultism Dimenstional Storage
 - [ ] Occultism balancing
 - [ ] Occultism documentation
@@ -145,6 +144,7 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] [[Supplementaries]] config work
 - [x] no zip durability loss
 - [x] Reliable entity transfer
 - [x] Possibly use [[Botania]] Corporea system for storage?
