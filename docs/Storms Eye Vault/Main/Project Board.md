@@ -126,8 +126,6 @@ kanban-plugin: board
 
 ## Pending
 
-- [ ] Windchimes
-- [ ] chalk mod
 - [ ] ascendant arcana
 - [ ] remove all start dust recipes
 
@@ -138,11 +136,14 @@ kanban-plugin: board
 
 ## Review
 
+- [ ] [[Sooty chimneys]]
+- [ ] [[Chimes]]
 
 
 ## Complete
 
 **Complete**
+- [x] [[Chalk]] remove
 - [x] occultism recipe removal
 - [x] hide storage accessor
 - [x] remove demons dream seeds
