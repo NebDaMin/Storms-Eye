@@ -35,7 +35,6 @@ kanban-plugin: board
 - [ ] see if we need to work on the structure sets to avoid overlap
 - [ ] get tpx command
 - [ ] look into the official irons modpack for admin stuff
-- [ ] Better Combat
 - [ ] Need a health progression system
 - [ ] need a sleeping nerf
 - [ ] is Axe of doom bugged?
@@ -128,21 +127,28 @@ kanban-plugin: board
 
 - [ ] ascendant arcana
 - [ ] remove all start dust recipes
+- [ ] alex caves beter combat
+- [ ] ice and fire better combat
+- [ ] cataclysm better combat
+- [ ] entity reach compatibility with beter combat
 
 
 ## Working
 
+- [ ] [[Better Combat]]
+- [ ] test better combat with all weapons
+- [ ] Review Better combat config
 
 
 ## Review
 
-- [ ] [[Sooty chimneys]]
-- [ ] [[Chimes]]
 
 
 ## Complete
 
 **Complete**
+- [x] [[Chimes]]
+- [x] [[Sooty chimneys]]
 - [x] [[Chalk]] remove
 - [x] occultism recipe removal
 - [x] hide storage accessor

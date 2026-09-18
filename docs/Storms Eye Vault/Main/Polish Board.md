@@ -57,6 +57,7 @@ kanban-plugin: board
 - [ ] unify silver ores?
 - [ ] clean up spiritfire recipes
 - [ ] remove occult rituals from jei
+- [ ] Determine if entity reach ever varies, disable it in the UI if so
 
 
 ## 
