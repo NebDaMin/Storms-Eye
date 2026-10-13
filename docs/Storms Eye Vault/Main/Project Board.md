@@ -34,6 +34,7 @@ kanban-plugin: board
 - [ ] test better combat with all weapons
 - [ ] add custom sky with sky aesthetics
 - [ ] see if we need to work on the structure sets to avoid overlap
+- [ ] [[Cl;ean up alex's mobs items]]
 - [ ] get tpx command
 - [ ] look into the official irons modpack for admin stuff
 - [ ] Need a health progression system
@@ -127,22 +128,21 @@ kanban-plugin: board
 ## Pending
 
 - [ ] ascendant arcana
-- [ ] remove all start dust recipes
 - [ ] alex caves beter combat
 - [ ] ice and fire better combat
 - [ ] cataclysm better combat
 - [ ] [[Balance Weapons]]
 - [ ] entity reach compatibility with beter combat
-- [ ] [[Cl;ean up alex's mobs items]]
 
 
 ## Working
 
-- [ ] Review Better combat config
+- [ ] remove all start dust recipes
 
 
 ## Review
 
+- [ ] Review Better combat config
 
 
 ## Complete
