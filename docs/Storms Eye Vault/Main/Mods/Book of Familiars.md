@@ -22,7 +22,7 @@ QA Final: false
 - None
 
 ## Remaining Integration TODO
-- [ ] Fix the loot drop problem (dev working on it)
+- [x] Fix the loot drop problem (dev working on it)
 - [ ] Configure the number of familiars allowed
 ## Remaining QA
-- [ ] None
+- [ ] test the loot drop problem fixed

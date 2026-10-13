@@ -31,6 +31,7 @@ kanban-plugin: board
 - [ ] prevent mob spawn in mirror
 - [ ] Add JEI groups
 - [ ] Make Xaeros not check for updates
+- [ ] test better combat with all weapons
 - [ ] add custom sky with sky aesthetics
 - [ ] see if we need to work on the structure sets to avoid overlap
 - [ ] get tpx command
@@ -130,13 +131,13 @@ kanban-plugin: board
 - [ ] alex caves beter combat
 - [ ] ice and fire better combat
 - [ ] cataclysm better combat
+- [ ] [[Balance Weapons]]
 - [ ] entity reach compatibility with beter combat
+- [ ] [[Cl;ean up alex's mobs items]]
 
 
 ## Working
 
-- [ ] [[Better Combat]]
-- [ ] test better combat with all weapons
 - [ ] Review Better combat config
 
 
@@ -147,6 +148,8 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] [[Better Combat]]
+- [x] test familiar mod updates
 - [x] [[Chimes]]
 - [x] [[Sooty chimneys]]
 - [x] [[Chalk]] remove
