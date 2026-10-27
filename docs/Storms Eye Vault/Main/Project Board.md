@@ -129,6 +129,8 @@ kanban-plugin: board
 ## Pending
 
 - [ ] Add JEI groups
+- [ ] Fancy Items
+- [ ] https://www.youtube.com/watch?v=LpER5zNnQW4
 
 
 ## Working
