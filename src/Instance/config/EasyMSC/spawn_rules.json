@@ -1,0 +1,26 @@
+[
+  {
+    "name": "extraspawns",
+    "priority": 0,
+    "minLight": 0,
+    "maxLight": 15,
+    "dayFrom": 0,
+    "dayTo": 24000,
+    "heightFrom": -64,
+    "heightTo": 200,
+    "weather": "any",
+    "skyAccess": "any",
+    "biomeIds": [
+      "minecraft:flower_forest",
+      "minecraft:old_growth_birch_forest",
+      "minecraft:savanna_plateau",
+      "minecraft:dark_forest",
+      "minecraft:forest",
+      "minecraft:windswept_forest",
+      "minecraft:sunflower_plains",
+      "minecraft:birch_forest",
+      "minecraft:plains"
+    ],
+    "strict": false
+  }
+]

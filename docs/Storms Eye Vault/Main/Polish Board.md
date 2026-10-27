@@ -58,6 +58,7 @@ kanban-plugin: board
 - [ ] clean up spiritfire recipes
 - [ ] remove occult rituals from jei
 - [ ] Determine if entity reach ever varies, disable it in the UI if so
+- [ ] star dust anvil recipe clean up
 
 
 ## 

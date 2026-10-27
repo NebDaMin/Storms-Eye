@@ -28,8 +28,6 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] prevent mob spawn in mirror
-- [ ] Add JEI groups
 - [ ] Make Xaeros not check for updates
 - [ ] test better combat with all weapons
 - [ ] add custom sky with sky aesthetics
@@ -40,6 +38,7 @@ kanban-plugin: board
 - [ ] Need a health progression system
 - [ ] need a sleeping nerf
 - [ ] is Axe of doom bugged?
+- [ ] Review Better combat config
 - [ ] xaero minimap
 - [ ] secure the configs from exploting
 - [ ] buff the abyss orbs on the armor
@@ -108,6 +107,7 @@ kanban-plugin: board
 - [ ] infinity buttons
 - [ ] Magic Vibe Decorations
 - [ ] Mouse Tweaks
+- [ ] [[Balance Weapons]]
 - [ ] PlayerRevive
 - [ ] Quark
 - [ ] Simply Swords
@@ -117,37 +117,43 @@ kanban-plugin: board
 - [ ] no potion particles (make sure other effects remain)
 - [ ] mob density checker
 - [ ] better phantom spawning
-- [ ] chaulk mod
 - [ ] locks mod
 - [ ] cataclysm figure out how talismans work
 - [ ] ammendments mod
 - [ ] balance occultism dim storage
 - [ ] custom [[Occultism]]
+- [ ] remove earth gauntlet from moveset
+- [ ] ice and fire better combat compat
 
 
 ## Pending
 
-- [ ] ascendant arcana
-- [ ] alex caves beter combat
-- [ ] ice and fire better combat
-- [ ] cataclysm better combat
-- [ ] [[Balance Weapons]]
-- [ ] entity reach compatibility with beter combat
+- [ ] Add JEI groups
 
 
 ## Working
 
-- [ ] remove all start dust recipes
 
 
 ## Review
 
-- [ ] Review Better combat config
 
 
 ## Complete
 
 **Complete**
+- [x] [[Mob Control]]
+- [x] [[Easy Mob Spawn Control]]
+- [x] prevent mob spawn in mirror
+- [x] Beyond Better Combat Compat
+- [x] [[Better Combat - Heavier Weapons]]
+- [x] [[critical strike]]
+- [x] cataclysm better combat
+- [x] entity reach compatibility with beter combat
+- [x] alex caves beter combat
+- [x] cataclysm compat
+- [x] apotheosis compat
+- [x] remove all start dust recipes
 - [x] [[Better Combat]]
 - [x] test familiar mod updates
 - [x] [[Chimes]]

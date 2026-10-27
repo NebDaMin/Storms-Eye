@@ -1,0 +1,30 @@
+[
+  {
+    "name": "0_remove_default_biome_spawns",
+    "biomeIds": [],
+    "category": "misc",
+    "weight": 1,
+    "minCount": 1,
+    "maxCount": 1,
+    "type": "REMOVE_DEFAULT"
+  },
+  {
+    "name": "skarrier_mobs:serene",
+    "biomeIds": [
+      "minecraft:birch_forest",
+      "minecraft:dark_forest",
+      "minecraft:flower_forest",
+      "minecraft:forest",
+      "minecraft:old_growth_birch_forest",
+      "minecraft:plains",
+      "minecraft:savanna_plateau",
+      "minecraft:sunflower_plains",
+      "minecraft:windswept_forest"
+    ],
+    "category": "creature",
+    "weight": 100,
+    "minCount": 1,
+    "maxCount": 2,
+    "type": "ADD_OR_OVERRIDE"
+  }
+]
