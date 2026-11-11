@@ -35,8 +35,6 @@ kanban-plugin: board
 - [ ] [[Cl;ean up alex's mobs items]]
 - [ ] get tpx command
 - [ ] look into the official irons modpack for admin stuff
-- [ ] Need a health progression system
-- [ ] need a sleeping nerf
 - [ ] is Axe of doom bugged?
 - [ ] Review Better combat config
 - [ ] xaero minimap
@@ -124,6 +122,7 @@ kanban-plugin: board
 - [ ] custom [[Occultism]]
 - [ ] remove earth gauntlet from moveset
 - [ ] ice and fire better combat compat
+- [ ] add earthquakes mod
 
 
 ## Pending
@@ -131,6 +130,7 @@ kanban-plugin: board
 - [ ] Add JEI groups
 - [ ] Fancy Items
 - [ ] https://www.youtube.com/watch?v=LpER5zNnQW4
+- [ ] [[recent mods update non spawn and pet docs]]
 
 
 ## Working
@@ -144,6 +144,10 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] [[Pixelated Black Hole Moon RP]]
+- [x] [[simply swords]]
+- [x] simply swords addins
+- [x] testing simply swords cataclysm
 - [x] [[Mob Control]]
 - [x] [[Easy Mob Spawn Control]]
 - [x] prevent mob spawn in mirror

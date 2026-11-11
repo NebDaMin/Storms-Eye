@@ -23,5 +23,7 @@ QA Final: false
 - [ ] remove unused items
 - [ ] add custom recipes
 - [ ] review config
+- [ ] need to figure out what all items do
+- [ ] figure out how to spawn boss
 ## Remaining QA
 - [ ] None

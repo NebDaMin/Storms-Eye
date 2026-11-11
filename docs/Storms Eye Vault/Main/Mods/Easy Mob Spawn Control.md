@@ -4,7 +4,7 @@ Install Location:
   - Server
   - Unknown
 LinkToMod: https://www.curseforge.com/minecraft/mc-mods/easy-mob-spawn-control
-CustomConfig: false
+CustomConfig: true
 Integration Phase:
   - Integrating
 ModCategory:

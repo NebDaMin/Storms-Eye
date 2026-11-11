@@ -53,9 +53,11 @@ kanban-plugin: board
 - [ ] fix lighting artifacts under nausea
 - [ ] remove hitboxes
 - [ ] obfuscate all mod names with kubejs
+- [ ] Need a health progression system
 - [ ] Revisit stackable items for potion bundles if doesnt work [[Potion Recipe Fix Task]]
 - [ ] unify silver ores?
 - [ ] clean up spiritfire recipes
+- [ ] need a sleeping nerf
 - [ ] remove occult rituals from jei
 - [ ] Determine if entity reach ever varies, disable it in the UI if so
 - [ ] star dust anvil recipe clean up
